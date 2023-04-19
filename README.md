@@ -2,6 +2,8 @@
 
 A world map for the region Philosophers in NationStates
 
-The base map is remixed from [Gedemon/HK-GiantEarthMap](https://github.com/Gedemon/HK-GiantEarthMap) and looks like:
+The base map is remixed from [Gedemon/HK-GiantEarthMap](https://github.com/Gedemon/HK-GiantEarthMap).
 
-![base map](Base.gif)
+The lastest version of the map looks like:
+
+![base map](latest.gif)
