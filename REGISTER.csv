@@ -100,7 +100,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,98,Sardinia,Sardinia,,
 ,,99,Italia Annonaria,Annonarian Italy,,
 ,,100,Italia Suburbicaria,Suburbicarian Italy,,
-,,101,Graecia,Greece,,
+#00CED1,GatoSealans,101,Graecia,Greece,875,940
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
 ,,104,Danubia,Danubia,,
