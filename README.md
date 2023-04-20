@@ -6,7 +6,7 @@ The base map is remixed from [Gedemon/HK-GiantEarthMap](https://github.com/Gedem
 
 The lastest version of the map looks like:
 
-![base map](latest.gif)
+![base map](latest.png)
 
 To see the zones and borders, click to see the large maps:
 - North Hemisphere, old world:

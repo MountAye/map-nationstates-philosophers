@@ -187,7 +187,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,185,Oceanus Atlanticus Septentrionalis,North Atlantic Ocean,,
 ,,186,Mare Norvegicum,Norwegian Sea,,
 ,,187,Tarim,Tarim Basin,,
-,,188,Marocum,Morocco,,
+#c1272d,Sunrise Trail,188,Marocum,Morocco,210,1200
 ,,189,Casanum,Caspian Sea,,
 ,,190,Numidia,Numidia,,
 ,,191,Finmarchia,Finnmark,,
