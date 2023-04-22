@@ -1,4 +1,4 @@
-COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
+COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,0,Mare Beringianum,Bering Sea,,
 ,,1,Chatanga,Chatanga River,,
 ,,2,Flumen Cromwellianum,Cromwell River,,
@@ -26,7 +26,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-,,27,Esonia,Estonia,,
+#388E3C,Jurioo-Zalgiris,27,Esonia,Estonia,3820,500
 ,,28,Camtschatca,Kamchatka,,
 ,,29,Iaponia Boreales,Northern Japan,,
 ,,30,Iaponia Australes,Southern Japan,,
@@ -100,7 +100,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,98,Sardinia,Sardinia,,
 ,,99,Italia Annonaria,Annonarian Italy,,
 ,,100,Italia Suburbicaria,Suburbicarian Italy,,
-#00CED1,GatoSealans,101,Graecia,Greece,875,940
+#00ffff,GatoSealans,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
 ,,104,Danubia,Danubia,,
@@ -161,7 +161,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,159,Corea,Korea,,
 ,,160,Insulae Lineae,Line Islands,,
 ,,161,Territorium Maritimum,Maritime Territory,,
-#003399,MountAye,162,Planum Sinense,Chinese Plain,2795,840
+#003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
 ,,163,Flumen Flavum,Yellow River,,
 ,,164,Flumen Margaritarum,Pearl River,,
 ,,165,Formosa,Taiwan,,
@@ -187,7 +187,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,ONE_COL,ONE_ROW
 ,,185,Oceanus Atlanticus Septentrionalis,North Atlantic Ocean,,
 ,,186,Mare Norvegicum,Norwegian Sea,,
 ,,187,Tarim,Tarim Basin,,
-#c1272d,Sunrise Trail,188,Marocum,Morocco,210,1200
+#c1272d,Sunrise Trail,188,Marocum,Morocco,2950,1300
 ,,189,Casanum,Caspian Sea,,
 ,,190,Numidia,Numidia,,
 ,,191,Finmarchia,Finnmark,,

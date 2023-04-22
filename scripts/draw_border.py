@@ -19,7 +19,7 @@ for prop in properties:
 
     window = labels[row_min:row_max,col_min:col_max]
     unique = np.unique(window[np.logical_and(window!=prop.label,window!=0)])
-    if len(unique) == 0:
+    if len(unique) < 2:
         continue
     distance = np.zeros_like(unique,dtype=float)
     for u,uni in enumerate(unique):

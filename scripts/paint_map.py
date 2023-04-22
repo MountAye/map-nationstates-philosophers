@@ -4,7 +4,7 @@ import pandas as pd
 from skimage import io,segmentation,util
 
 def hex2color(hex:str):
-    assert hex[0] == "#", "ColorError: remove `#` before hex code."
+    assert hex[0] == "#", "ColorError: lost `#` before hex code."
     hex = hex[1:]
     return np.array([int(hex[h:h+2],16) for h in (0,2,4)])
 
@@ -20,11 +20,11 @@ borders = io.imread("images/border_lines.gif")
 
 latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
-latest[mask_ocean] = hex2color(config["color_sea_deep"])
+latest[mask_ocean] = hex2color(config["color_seas"])
 
 for i,series in registered.iterrows():
-    row = int(series["ONE_ROW"])
-    col = int(series["ONE_COL"])
+    row = int(series["PIN_ROW"])
+    col = int(series["PIN_COL"])
     mask_territory = segmentation.flood(borders,(row,col),connectivity=1)
     latest[np.logical_and(mask_lands,mask_territory)] = hex2color(series["COLOR"])
 
