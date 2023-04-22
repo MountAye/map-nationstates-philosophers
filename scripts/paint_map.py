@@ -29,4 +29,4 @@ for i,series in registered.iterrows():
     latest[np.logical_and(mask_lands,mask_territory)] = hex2color(series["COLOR"])
 
 latest[(borders>0)] = np.array([255,255,255])
-io.imsave("latest.gif",util.img_as_ubyte(latest))
+io.imsave("latest.png",util.img_as_ubyte(latest))
