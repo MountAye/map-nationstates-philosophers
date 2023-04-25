@@ -20,7 +20,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,18,Tzadia,Chad,,
 ,,19,Hibernia,Ireland,,
 ,,20,Caledonia,Caledonia,,
-,,21,Britannia,Britain,,
+#F2F209,Kingdom of the noobs,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
 ,,23,Batavia,Batavia,,
 ,,24,Neustria,Neustria,,
