@@ -26,7 +26,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-#388E3C,Jurioo-Zalgiris,27,Esonia,Estonia,3820,500
+,,27,Esonia,Estonia,,
 ,,28,Camtschatca,Kamchatka,,
 ,,29,Iaponia Boreales,Northern Japan,,
 ,,30,Iaponia Australes,Southern Japan,,
@@ -108,7 +108,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,106,Syria,Syria,,
 ,,107,Norvegia,Norway,,
 ,,108,Crasnoiarium,Krasnoyarsk,,
-,,109,Suecia,Sweden,,
+#004B87,The Kingdom Of The Damrotes,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
 ,,111,Finnia,Finland,,
 ,,112,Kola,Kola Peninsula,,
@@ -119,7 +119,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,117,Polonia,Poland,,
 ,,118,Cappadocia,Cappadocia,,
 ,,119,Ucraina,Ukraine,,
-,,120,Baltica,Baltics,,
+#388E3C,Jurioo-Zalgiris,120,Baltica,Baltics,3820,500
 ,,121,Transcaucasia,Transcaucasia,,
 ,,122,Moscovia,Muscovy,,
 ,,123,Assyria,Assyria,,
@@ -241,7 +241,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,,
 ,,241,Kiangnanum,Jiangnan,,
-,,242,Alpes Iaponicae,Japanese Alps,,
+#7f7f7f,Clan Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 ,,243,Persia,Persia,,
 ,,244,Amdo,Amdo,,
 ,,245,Transoxiana,Transoxiana,,
