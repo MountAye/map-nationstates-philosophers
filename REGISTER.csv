@@ -69,7 +69,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 ,,68,Havaii,Hawaii,,
 ,,69,Insulae Marianae,Mariana Islands,,
-,,70,Insulae Marsaliensis,Marshall Islands,,
+#DD6B6B,Sagalevo,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,,
 ,,72,Insula Paschalis,Easter Island,,
 ,,73,Polynesia Centralis,Central Polynesia,,
