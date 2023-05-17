@@ -4,7 +4,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,,
 ,,4,Alasca,Alaska,,
-,,5,Saskatchewan,Saskatchewan,,
+#000080,Pacific Northwest Territories,5,Saskatchewan,Saskatchewan,1400,500
 ,,6,Columbia Britannica,British Columbia,,
 ,,7,Haida Gwaii,Haida Gwaii,,
 ,,8,Kitlineq,Kitlineq,,
@@ -121,7 +121,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,119,Ucraina,Ukraine,,
 #388E3C,Jurioo-Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central Kadigan,121,Transcaucasia,Transcaucasia,4300,950
-,,122,Moscovia,Muscovy,,
+#f5f5f5,Social Democratic Societies,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,,
 ,,124,Ciscaucasia,Ciscaucasia,,
 ,,125,Mauretania,Mauretania,,
