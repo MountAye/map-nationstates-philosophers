@@ -94,7 +94,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,92,Azores,Azores,,
 ,,93,Oceanus Atlanticus Orientalis,Eastern Atlantic Ocean,,
 ,,94,Insulae Societalis,Society Islands,,
-,,95,Andalusia,Andalusia,,
+#005eb8,Abide,95,Andalusia,Andalusia,2900,1100
 ,,96,Castella,Castile,,
 ,,97,Aragonia,Aragon,,
 ,,98,Sardinia,Sardinia,,
