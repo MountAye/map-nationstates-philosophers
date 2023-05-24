@@ -104,7 +104,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
 ,,104,Danubia,Danubia,,
-,,105,Germania,Germany,,
+#111111,Avantgardistisches Deutschland,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 ,,107,Norvegia,Norway,,
 ,,108,Crasnoiarium,Krasnoyarsk,,
