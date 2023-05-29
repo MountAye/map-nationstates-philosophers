@@ -169,7 +169,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,167,Vietnamia,Vietnam,,
 ,,168,Thailandia,Thailand,,
 ,,169,Malaesia,Malaysia,,
-,,170,Sumatra,Sumatra,,
+#008080,Floksoni,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,,
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
