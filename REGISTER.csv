@@ -110,7 +110,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,108,Crasnoiarium,Krasnoyarsk,,
 ,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
-,,111,Finnia,Finland,,
+#ff5f17,Vichevz,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,,
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,,
