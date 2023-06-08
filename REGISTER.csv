@@ -115,7 +115,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
-,,116,Novogardia,Novgorod,,
+#f5f5f5,Social Democratic Societies,116,Novogardia,Novgorod,4000,350
 ,,117,Polonia,Poland,,
 ,,118,Cappadocia,Cappadocia,,
 ,,119,Ucraina,Ukraine,,

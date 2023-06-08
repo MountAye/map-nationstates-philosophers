@@ -9,7 +9,7 @@ def hex2color(hex:str):
     return np.array([int(hex[h:h+2],16) for h in (0,2,4)])
 
 registered = pd.read_csv("REGISTER.csv")
-registered = registered.dropna(subset="STATE")
+registered = registered.dropna(subset="COLOR")
 
 config = json.load(open("config.json",'r'))
 
