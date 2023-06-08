@@ -5,7 +5,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,3,Insulae Aleutiae,Aleutian Islands,,
 ,,4,Alasca,Alaska,,
 #000080,Pacific Northwest Territories,5,Saskatchewan,Saskatchewan,1400,500
-,,6,Columbia Britannica,British Columbia,,
+,,6,Columbia Britannica,British Columbia,1100,450
 ,Laughing Hyena,7,Haida Gwaii,Haida Gwaii,950,500
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
@@ -16,9 +16,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,14,Ungava,Ungava,,
 ,,15,Terra Nova,Newfoundland,,
 ,,16,Mare Laboratorium,Laboratory Sea,,
-,,17,Islandia,Iceland,,
+,,17,Islandia,Iceland,2900,200
 ,,18,Tzadia,Chad,,
-,,19,Hibernia,Ireland,,
+,,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #F2F209,Kingdom of the noobs,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
@@ -65,7 +65,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,63,Lacus Magni,Great Lakes,,
 ,,64,Magnae Planities,Great Plains,,
 ,,65,Dacota,Dakota,,
-,,66,Oregonia,Oregon,,
+,,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 ,,68,Havaii,Hawaii,,
 ,,69,Insulae Marianae,Mariana Islands,,
