@@ -4,8 +4,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,,
 ,,4,Alasca,Alaska,,
-#000080,Pacific Northwest Territories,5,Saskatchewan,Saskatchewan,1400,500
-,,6,Columbia Britannica,British Columbia,1100,450
+,,5,Saskatchewan,Saskatchewan,1400,500
+#000080,Pacific Northwest Territories,6,Columbia Britannica,British Columbia,1100,450
 #990000,Laughing Hyena,7,Haida Gwaii,Haida Gwaii,950,500
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
@@ -65,7 +65,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,63,Lacus Magni,Great Lakes,,
 ,,64,Magnae Planities,Great Plains,,
 ,,65,Dacota,Dakota,,
-,,66,Oregonia,Oregon,1200,650
+#000080,Pacific Northwest Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 ,,68,Havaii,Hawaii,,
 ,,69,Insulae Marianae,Mariana Islands,,
@@ -213,7 +213,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,211,Guinea,Guinea,,
 ,,212,Nigritania,Niger,,
 ,,213,Ngbandia,Ngbandi,,
-,,214,Angolia,Angola,,
+#818589,Ernaska,214,Angolia,Angola,3400,2250
 ,,215,Zambia,Zambia,,
 ,,216,Capitis Viridis,Cape Verde,,
 ,,217,Tuvalu,Tuvalu,,
