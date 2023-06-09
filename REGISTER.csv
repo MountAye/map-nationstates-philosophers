@@ -6,7 +6,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,4,Alasca,Alaska,,
 #000080,Pacific Northwest Territories,5,Saskatchewan,Saskatchewan,1400,500
 ,,6,Columbia Britannica,British Columbia,1100,450
-,Laughing Hyena,7,Haida Gwaii,Haida Gwaii,950,500
+#990000,Laughing Hyena,7,Haida Gwaii,Haida Gwaii,950,500
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
 ,,10,Baffin,Baffin Island,,
@@ -35,7 +35,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,33,Australia Septentrionalis,Northern Australia,,
 ,,34,Australia Australis,Southern Australia,,
 ,,35,Cambria Australis,South Wales,,
-,Laughing Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
+#990000,Laughing Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
 ,,37,Te Waipounamu,South Island of New Zealand,120,2900
 ,,38,Cambosia,Cambodia,,
 ,,39,Tasmania,Tasmania,,
