@@ -14,11 +14,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,12,Keewatin,Keewatin,,
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,,
-,,15,Terra Nova,Newfoundland,,
+#F2F209,Kingdom of the noobs,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 ,,17,Islandia,Iceland,2900,200
 ,,18,Tzadia,Chad,,
-,,19,Hibernia,Ireland,3000,500
+#0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #F2F209,Kingdom of the noobs,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
@@ -176,7 +176,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
 ,,176,Celebis,Celebes (Sulawesi),,
-,,177,Papua,Papua,,
+,Luqitiq,177,Papua,Papua,6400,1900
 ,,178,Borneum,Borneo,,
 ,,179,Casmir,Kashmir,,
 ,,180,Melanesia,Melanesia,,
@@ -217,7 +217,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,215,Zambia,Zambia,,
 ,,216,Capitis Viridis,Cape Verde,,
 ,,217,Tuvalu,Tuvalu,,
-,,218,Philippinae,Philippines,,
+,Luqitiq,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,,
 ,,220,Beninum,Benin,,
 ,,221,Sichuan,Sichuan,,
@@ -240,7 +240,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,238,Thracia,Thrace,,
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,,
-,,241,Kiangnanum,Jiangnan,,
+#003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 ,,243,Persia,Persia,,
 ,,244,Amdo,Amdo,,
