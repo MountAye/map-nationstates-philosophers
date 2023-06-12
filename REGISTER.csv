@@ -176,7 +176,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
 ,,176,Celebis,Celebes (Sulawesi),,
-,Luqitiq,177,Papua,Papua,6400,1900
+#647A7D,Luqitiq,177,Papua,Papua,6400,1900
 ,,178,Borneum,Borneo,,
 ,,179,Casmir,Kashmir,,
 ,,180,Melanesia,Melanesia,,
@@ -217,7 +217,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,215,Zambia,Zambia,,
 ,,216,Capitis Viridis,Cape Verde,,
 ,,217,Tuvalu,Tuvalu,,
-,Luqitiq,218,Philippinae,Philippines,6000,1500
+#647A7D,Luqitiq,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,,
 ,,220,Beninum,Benin,,
 ,,221,Sichuan,Sichuan,,
