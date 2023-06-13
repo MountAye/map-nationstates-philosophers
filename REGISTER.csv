@@ -22,7 +22,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #F2F209,Kingdom of the noobs,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
-,,23,Batavia,Batavia,,
+#111111,Avantgardistisches Deutschland,23,Batavia,Batavia,3350,650
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
@@ -55,7 +55,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,53,Pantanal,Pantanal,,
 ,,54,Brasilia Australis,Southern Brazil,,
 ,,55,Mare Caribaeum,Caribbean Sea,,
-,,56,Florida,Florida,,
+#0000F2,Xavier The 1,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,,
 ,,58,Texia,Texas,,
 ,,59,Mississippia,Mississippi,,
@@ -175,9 +175,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
-,,176,Celebis,Celebes (Sulawesi),,
+#E0115f,The Revolutionary Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-,,178,Borneum,Borneo,,
+#E0115f,The Revolutionary Ternian Front,178,Borneum,Borneo,5900,1850
 ,,179,Casmir,Kashmir,,
 ,,180,Melanesia,Melanesia,,
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
@@ -242,7 +242,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,240,Mongolia Citerior,Inner Mongolia,,
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
-,,243,Persia,Persia,,
+#646480,Shanlix,243,Persia,Persia,4300,1300
 ,,244,Amdo,Amdo,,
 ,,245,Transoxiana,Transoxiana,,
 ,,246,Chilia,Chilia Branch,,
