@@ -29,7 +29,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,27,Esonia,Hokkaido,,
 ,,28,Camtschatca,Kamchatka,,
 ,,29,Iaponia Boreales,Northern Japan,,
-,,30,Iaponia Australes,Southern Japan,,
+#7f7f7f,Clan Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
 ,,31,Australia Occidentalis,Western Australia,,
 ,,32,Terra Reginae,Queen's Land,,
 ,,33,Australia Septentrionalis,Northern Australia,,
