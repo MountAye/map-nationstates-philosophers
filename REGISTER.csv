@@ -103,7 +103,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #00ffff,GatoSealans,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
-,,104,Danubia,Danubia,,
+#a32b22,Louisie,104,Danubia,Danubia,3650,780
 #111111,Avantgardistisches Deutschland,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 ,,107,Norvegia,Norway,,
@@ -116,7 +116,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
 #f5f5f5,Social Democratic Societies,116,Novogardia,Novgorod,4000,350
-,,117,Polonia,Poland,,
+#a32b22,Louisie,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,,
 ,,119,Ucraina,Ukraine,,
 #388E3C,Jurioo-Zalgiris,120,Baltica,Baltics,3820,500
