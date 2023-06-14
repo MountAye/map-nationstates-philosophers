@@ -30,8 +30,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,28,Camtschatca,Kamchatka,,
 ,,29,Iaponia Boreales,Northern Japan,,
 #7f7f7f,Clan Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
-,,31,Australia Occidentalis,Western Australia,,
-,,32,Terra Reginae,Queen's Land,,
+#BF0024,Japan Kinturu,31,Australia Occidentalis,Western Australia,6000,2400
+#BF0024,Japan Kinturu,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,,
 ,,34,Australia Australis,Southern Australia,,
 ,,35,Cambria Australis,South Wales,,
