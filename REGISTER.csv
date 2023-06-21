@@ -45,7 +45,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
 ,,45,Guatemala,Guatemala,,
-,,46,Amazonia,Amazonia,,
+#ff9248,Chetlosvakcos,46,Amazonia,Amazonia,2100,1900
 ,,47,Peruvia,Peru,,
 ,,48,Columbia,Colombia,,
 ,,49,Caatinga,Caatinga,,
@@ -247,7 +247,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,245,Transoxiana,Transoxiana,,
 ,,246,Chilia,Chilia Branch,,
 ,,247,Venetiola,Venezuela,,
-,,248,Paraensis,Paraense,,
+#ff9248,Chetlosvakcos,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
 ,,250,Lydia,Lydia,,
 ,,251,Ultima Thule,Ultima Thule,,
