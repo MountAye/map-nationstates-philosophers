@@ -149,7 +149,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,147,Ganges,Ganges,,
 ,,148,Nenetsia,Nenets Autonomous Okrug,,
 ,,149,Orenburgum,Orenburg Oblast,,
-,,150,Tibetum,Tibet,,
+#090580,Solis Empire,150,Tibetum,Tibet,5200,1100
 ,,151,Altai,Altai Republic,,
 ,,152,Lapponia,Lapland,,
 ,,153,Tungusca,Tunguska,,
@@ -178,7 +178,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #E0115f,The Revolutionary Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
 #E0115f,The Revolutionary Ternian Front,178,Borneum,Borneo,5900,1850
-,,179,Casmir,Kashmir,,
+,,179,Casmir,Kashmir,4950,1000
 ,,180,Melanesia,Melanesia,,
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
 ,,182,Gyrus Indici,Indian Ocean gyre,,
