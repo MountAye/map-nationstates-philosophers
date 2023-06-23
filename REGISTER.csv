@@ -50,7 +50,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,48,Columbia,Colombia,,
 ,,49,Caatinga,Caatinga,,
 ,,50,Guiana,Guiana,,
-,,51,Patagonia,Patagonia,,
+#B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
 ,,52,Atacama,Atacama,,
 ,,53,Pantanal,Pantanal,,
 ,,54,Brasilia Australis,Southern Brazil,,
@@ -202,7 +202,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,200,Dene,Dene,,
 ,,201,Laboratoria,Laboratory,,
 ,,202,Flumen Argenteum,Silver River,,
-,,203,Terra Ignium,Tierra del Fuego,,
+#B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
 ,,206,Kazachia,Kazakhstan,,
