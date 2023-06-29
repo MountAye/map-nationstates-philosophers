@@ -40,7 +40,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,38,Cambosia,Cambodia,,
 ,,39,Tasmania,Tasmania,,
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
-,,41,Mexicum,Mexico,,
+#03045E,Kani,41,Mexicum,Mexico,1400,1300
 ,,42,Samoa,Samoa,,
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
@@ -231,7 +231,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,229,Manchuria,Manchuria,,
 ,,230,Parthia,Parthia,,
 ,,231,Bengala,Bengal,,
-,,232,California,California,,
+#03045E,Kani,232,California,California,1100,850
 ,,233,Sudania,Sudan,,
 ,,234,Mozambicum,Mozambique,,
 ,,235,Gedrosia,Gedrosia,,

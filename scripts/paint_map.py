@@ -23,7 +23,7 @@ latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
 latest[mask_ocean] = hex2color(config["color_seas"])
 
-for name in registered["STATE"].unique():
+for n,name in enumerate(registered["STATE"].unique()):
     count_words = len(name.split(" "))
     entries = registered.loc[registered["STATE"].eq(name)]
     nation_territories = np.zeros_like(base,dtype=bool)
@@ -83,7 +83,7 @@ for name in registered["STATE"].unique():
             M = cv2.getRotationMatrix2D((xw,yw), angle, 1)
             text = cv2.warpAffine(text, M, (text.shape[1], text.shape[0]))
             latest[(text>255/2)] = name_color
-    print(f"FINISHED PAINTING: {name}")
+    print(f"FINISHED PAINTING {n+1}: {name}")
 
 latest[(borders>0)] = np.array([255,255,255])
 io.imsave("latest.png",util.img_as_ubyte(latest))
