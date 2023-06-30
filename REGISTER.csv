@@ -14,22 +14,22 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,12,Keewatin,Keewatin,,
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,,
-#F2F209,Kingdom of\ the noobs,15,Terra Nova,Newfoundland,2350,560
+#F2F209,Kingdom\ of the\ noobs,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 ,,17,Islandia,Iceland,2900,200
 ,,18,Tzadia,Chad,,
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
-#F2F209,Kingdom of\ the noobs,21,Britannia,Britain,3150,570
+#F2F209,Kingdom\ of the\ noobs,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
-#111111,Avantgar-\ distisches\ Deutschland,23,Batavia,Batavia,3350,650
+#111111,Avantgar-\ distisches\ Deutsch-\ land,23,Batavia,Batavia,3350,650
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
 ,,27,Esonia,Hokkaido,,
 ,,28,Camtschatca,Kamchatka,,
 ,,29,Iaponia Boreales,Northern Japan,,
-#7f7f7f,Clan Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
+#7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
 #BF0024,Japan\ Kinturu,31,Australia Occidentalis,Western Australia,6000,2400
 #BF0024,Japan\ Kinturu,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,,
@@ -55,12 +55,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,53,Pantanal,Pantanal,,
 ,,54,Brasilia Australis,Southern Brazil,,
 ,,55,Mare Caribaeum,Caribbean Sea,,
-#0000F2,Xavier The 1,56,Florida,Florida,1850,1080
+#0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,,
 ,,58,Texia,Texas,,
 ,,59,Mississippia,Mississippi,,
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
-#0000F2,Xavier The 1,61,Carolinae,Carolina,1850,900
+#0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,,
 ,,63,Lacus Magni,Great Lakes,,
 ,,64,Magnae Planities,Great Plains,,
@@ -104,7 +104,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
 #a32b22,Louisie,104,Danubia,Danubia,3650,780
-#111111,Avantgar-\ distisches\ Deutschland,105,Germania,Germany,3500,660
+#111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 ,,107,Norvegia,Norway,,
 ,,108,Crasnoiarium,Krasnoyarsk,,
@@ -175,9 +175,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
-#E0115f,The Revolutionary\ Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
+#E0115f,The\ Revolutionary\ Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-#E0115f,The Revolutionary\ Ternian Front,178,Borneum,Borneo,5900,1850
+#E0115f,The\ Revolutionary\ Ternian Front,178,Borneum,Borneo,5900,1850
 #090580,Solis Empire,179,Casmir,Kashmir,4950,1000
 ,,180,Melanesia,Melanesia,,
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
@@ -241,7 +241,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,,
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
-#7f7f7f,Clan Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
+#7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
 ,,244,Amdo,Amdo,,
 ,,245,Transoxiana,Transoxiana,,

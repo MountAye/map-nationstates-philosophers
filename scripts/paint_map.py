@@ -23,25 +23,26 @@ latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
 latest[mask_ocean] = hex2color(config["color_seas"])
 
+mask_nations = np.zeros((*base.shape,3),dtype=int)
+
+for _,territroy in registered.dropna(subset="COLOR").iterrows():
+    row = int(territroy["PIN_ROW"])
+    col = int(territroy["PIN_COL"])
+    territory_all = segmentation.flood(borders,(row,col),connectivity=1)
+    territroy_land = np.logical_and(mask_lands,territory_all)
+    territroy_color = hex2color(territroy["COLOR"])
+    latest[territroy_land] = territroy_color
+    mask_nations[morphology.binary_dilation(territory_all,footprint=np.ones((3,3),dtype=int))] = territroy_color
+print("PAINTED COLORS")
+mask_bright = np.dot(latest,np.array([0.299,0.587,0.114]))/255>0.70
+mask_dark = np.logical_not(mask_bright)
+
+named = latest.copy()
 for n,name in enumerate(registered["STATE"].unique()):
-    count_words = len(name.split(" "))
     entries = registered.loc[registered["STATE"].eq(name)]
-    nation_territories = np.zeros_like(base,dtype=bool)
-    name_color = np.array([255,255,255])
-    nation_color = hex2color(config["color_land"])
-    for i,series in entries.iterrows():
-        row = int(series["PIN_ROW"])
-        col = int(series["PIN_COL"])
-        nation_territory = segmentation.flood(borders,(row,col),connectivity=1)
-        nation_territories = np.logical_or(nation_territories,nation_territory)
-        nation_land = np.logical_and(mask_lands,nation_territory)
-        
-        nation_color = hex2color(series["COLOR"])
-        latest[nation_land] = nation_color
-        if np.dot(nation_color,np.array([0.299,0.587,0.114]))>256/2:
-            name_color = np.array([0,0,0])
+    nation_color = hex2color(entries.loc[entries.index[0],"COLOR"])
+    nation_territories = np.all(mask_nations==nation_color,axis=-1)
     # Because we don't know if their territories are connected:
-    nation_territories = morphology.binary_opening(nation_territories,footprint=np.ones((3,3)))
     nation_territories_label = measure.label(nation_territories)
     for prop_territory_all in measure.regionprops(nation_territories_label):
         prop_territory_land = measure.regionprops(util.img_as_ubyte(np.logical_and(mask_lands,(nation_territories_label==prop_territory_all.label))))[0]
@@ -82,8 +83,10 @@ for n,name in enumerate(registered["STATE"].unique()):
                               )
             M = cv2.getRotationMatrix2D((xw,yw), angle, 1)
             text = cv2.warpAffine(text, M, (text.shape[1], text.shape[0]))
-            latest[(text>255/2)] = name_color
-    print(f"FINISHED PAINTING {n+1}: {name}")
+            named[np.logical_and(text>255/2,mask_bright)] = np.array([0,0,0])
+            named[np.logical_and(text>255/2,mask_dark)] = np.array([255,255,255])
+    print(f"TAGGING NAMES {n+1}: {name}")
 
-latest[(borders>0)] = np.array([255,255,255])
-io.imsave("latest.png",util.img_as_ubyte(latest))
+named[(borders>0)] = np.array([255,255,255])
+io.imsave("latest.png",util.img_as_ubyte(named))
+
