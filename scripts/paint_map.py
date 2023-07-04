@@ -38,6 +38,7 @@ mask_bright = np.dot(latest,np.array([0.299,0.587,0.114]))/255>0.70
 mask_dark = np.logical_not(mask_bright)
 
 named = latest.copy()
+named[(borders>0)] = np.array([255,255,255])
 for n,name in enumerate(registered["STATE"].unique()):
     entries = registered.loc[registered["STATE"].eq(name)]
     nation_color = hex2color(entries.loc[entries.index[0],"COLOR"])
@@ -87,6 +88,5 @@ for n,name in enumerate(registered["STATE"].unique()):
             named[np.logical_and(text>255/2,mask_dark)] = np.array([255,255,255])
     print(f"TAGGING NAMES {n+1}: {name}")
 
-named[(borders>0)] = np.array([255,255,255])
 io.imsave("latest.png",util.img_as_ubyte(named))
 
