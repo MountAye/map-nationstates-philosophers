@@ -53,7 +53,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,50,Guiana,Guiana,,
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
 ,,52,Atacama,Atacama,,
-,,53,Pantanal,Pantanal,,
+#ff9248,Chetlosvakcos,53,Pantanal,Pantanal,2200,2100
 ,,54,Brasilia Australis,Southern Brazil,,
 ,,55,Mare Caribaeum,Caribbean Sea,,
 #0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
