@@ -23,6 +23,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
 #111111,Avantgar-\ distisches\ Deutsch-\ land,23,Batavia,Batavia,3350,650
+#DA291C,Mercenia,23.5,Swiss,Swiss,3350,780
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
@@ -62,7 +63,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 #0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,,
-,,63,Lacus Magni,Great Lakes,,
+#da1a35,Dansxen,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
 ,,65,Dacota,Dakota,,
 #000080,Pacific Northwest Territories,66,Oregonia,Oregon,1200,650
@@ -115,13 +116,13 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
-#f5f5f5,Social\ Democratic\ Societies,116,Novogardia,Novgorod,4000,350
+#f5f5f5,Social Democratic\ Societies,116,Novogardia,Novgorod,4000,350
 #a32b22,Louisie,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,,
 ,,119,Ucraina,Ukraine,,
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
-#f5f5f5,Social\ Democratic\ Societies,122,Moscovia,Muscovy,4100,500
+#f5f5f5,Social Democratic\ Societies,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,,
 ,,124,Ciscaucasia,Ciscaucasia,,
 ,,125,Mauretania,Mauretania,,
@@ -225,7 +226,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,223,Tobolium,Tobol River,,
 ,,224,Ienisea,Yenisei River,,
 ,,225,Mongolia Ulterior,Outer Mongolia,,
-,,226,Voronegia,Voronezh Oblast,,
+#f5f5f5,Social Democratic\ Societies,226,Voronegia,Voronezh Oblast,4220,650
 ,,227,Arabia,Arabia,,
 ,,228,Omium,Omsk,,
 ,,229,Manchuria,Manchuria,,
