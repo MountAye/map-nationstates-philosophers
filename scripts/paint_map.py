@@ -46,8 +46,8 @@ for n,name in enumerate(registered["STATE"].unique()):
     # Because we don't know if their territories are connected:
     nation_territories_label = measure.label(nation_territories)
     for prop_territory_all in measure.regionprops(nation_territories_label):
-        prop_territory_land = measure.regionprops(util.img_as_ubyte(np.logical_and(mask_lands,(nation_territories_label==prop_territory_all.label))))[0]
-        angle = prop_territory_land.orientation * 180 / np.pi - 90
+        # prop_territory_land = measure.regionprops(util.img_as_ubyte(np.logical_and(mask_lands,(nation_territories_label==prop_territory_all.label))))[0]
+        angle = prop_territory_all.orientation * 180 / np.pi - 90
         if angle < -90:
             angle = 180 + angle
 
@@ -57,11 +57,11 @@ for n,name in enumerate(registered["STATE"].unique()):
         longest = sorted(words,key=lambda x:len(x),reverse=True)[0]
 
         (name_width,name_height),_ = cv2.getTextSize(longest,fontFace=cv2.FONT_HERSHEY_TRIPLEX,fontScale=1,thickness=1)
-        scale_x = 0.8 * prop_territory_land.axis_major_length / name_width
-        scale_y = 0.8 * prop_territory_land.axis_minor_length / name_height / n_words
+        scale_x = 0.8 * prop_territory_all.axis_major_length / name_width
+        scale_y = 0.8 * prop_territory_all.axis_minor_length / name_height / n_words
         scale = min([scale_x,scale_y])
 
-        y,x = prop_territory_land.centroid
+        y,x = prop_territory_all.centroid
         x -= 0.45 * name_width * scale * np.cos(angle/180*np.pi)
         y += 0.45 * name_width * scale * np.sin(angle/180*np.pi)
         x = int(x)

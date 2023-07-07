@@ -20,15 +20,15 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,18,Tzadia,Chad,,
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
-,,21,Britannia,Britain,3150,570
+#0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
 #111111,Avantgar-\ distisches\ Deutsch-\ land,23,Batavia,Batavia,3350,650
 ,,24,Neustria,Neustria,,
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-,,27,Esonia,Hokkaido,,
+#222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
 ,,28,Camtschatca,Kamchatka,,
-,,29,Iaponia Boreales,Northern Japan,,
+#7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
 #BF0024,Japan\ Kinturu,31,Australia Occidentalis,Western Australia,6000,2400
 #BF0024,Japan\ Kinturu,32,Terra Reginae,Queen's Land,6600,2300
@@ -73,13 +73,13 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,71,Insulae Marchionis,Marquesas Islands,,
 ,,72,Insula Paschalis,Easter Island,,
 ,,73,Polynesia Centralis,Central Polynesia,,
-,,74,Insulae Salomanis,Solomon Islands,,
+#647A7D,Luqitiq,74,Insulae Salomanis,Solomon Islands,6670,1840
 ,,75,Polynesia Australis,Southern Polynesia,,
 ,,76,Flumen Circumpolare Antarcticum,Antarctic Circumpolar Current,,
 ,,77,Insulae Galapagenses,Galapagos Islands,,
 ,,78,Gyrus Pacifici Australis,South Pacific Gyre,,
 ,,79,Flumen Humboldtianum,Humboldt Current,,
-,,80,Insulae Bonin,Bonin Islands,,
+#222222,The Imam\ Khannate,80,Insulae Bonin,Bonin Islands,6440,1270
 ,,81,Insulae Atlanticae Australis,Southern Atlantic Islands,,
 ,,82,Mare Argentinum,Argentine Sea,,
 ,,83,Fossa Mariana,Marianas Trench,,
@@ -95,8 +95,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,93,Oceanus Atlanticus Orientalis,Eastern Atlantic Ocean,,
 ,,94,Insulae Societalis,Society Islands,,
 #005eb8,Abide,95,Andalusia,Andalusia,2900,1100
-,,96,Castella,Castile,,
-,,97,Aragonia,Aragon,,
+#005eb8,Abide,96,Castella,Castile,2930,1000
+#005eb8,Abide,97,Aragonia,Aragon,3080,1020
 ,,98,Sardinia,Sardinia,,
 #FFFAF0,Arcanterra,99,Italia Annonaria,Annonarian Italy,3400,880
 #FFFAF0,Arcanterra,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
@@ -157,27 +157,27 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,155,Cisbaicalia,Transbaikal,,
 ,,156,Mare Tschukotense,Chukotka Sea,,
 ,,157,Amur,Amur River,,
-,,158,Magadanum,Magadan Oblast,,
+#222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
 ,,159,Corea,Korea,,
 ,,160,Insulae Lineae,Line Islands,,
 ,,161,Territorium Maritimum,Maritime Territory,,
 #003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
-,,163,Flumen Flavum,Yellow River,,
+#003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,,
 ,,165,Formosa,Taiwan,,
 ,,166,Birmania,Myanmar (Burma),,
 ,,167,Vietnamia,Vietnam,,
 ,,168,Thailandia,Thailand,,
-,,169,Malaesia,Malaysia,,
+#E0115f,The Revolutionary\ Ternian Front,169,Malaesia,Malaysia,5560,1780
 #008080,Floksoni,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,,
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
-#E0115f,The\ Revolutionary\ Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
+#E0115f,The Revolutionary\ Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-#E0115f,The\ Revolutionary\ Ternian Front,178,Borneum,Borneo,5900,1850
+#E0115f,The Revolutionary\ Ternian Front,178,Borneum,Borneo,5900,1850
 #090580,Solis Empire,179,Casmir,Kashmir,4950,1000
 ,,180,Melanesia,Melanesia,,
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
