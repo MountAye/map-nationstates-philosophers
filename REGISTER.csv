@@ -246,7 +246,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #646480,Shanlix,243,Persia,Persia,4300,1300
 ,,244,Amdo,Amdo,,
 ,,245,Transoxiana,Transoxiana,,
-,,246,Chilia,Chilia Branch,,
+#B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
 ,,247,Venetiola,Venezuela,,
 #ff9248,Chetlosvakcos,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
