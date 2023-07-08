@@ -227,7 +227,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,224,Ienisea,Yenisei River,,
 ,,225,Mongolia Ulterior,Outer Mongolia,,
 #f5f5f5,Social Democratic\ Societies,226,Voronegia,Voronezh Oblast,4220,650
-,,227,Arabia,Arabia,,
+#646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,,
 ,,229,Manchuria,Manchuria,,
 ,,230,Parthia,Parthia,,
