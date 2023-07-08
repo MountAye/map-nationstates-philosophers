@@ -159,7 +159,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,156,Mare Tschukotense,Chukotka Sea,,
 ,,157,Amur,Amur River,,
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
-,,159,Corea,Korea,,
+#c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,,
 ,,161,Territorium Maritimum,Maritime Territory,,
 #003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
