@@ -65,11 +65,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #03045E,Kani,62,Chihuahua,Chihuahua,1270,1110
 #da1a35,Dansxen,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
-,,65,Dacota,Dakota,,
+#7851a9,A Whole,65,Dacota,Dakota,1450,670
 #000080,Pacific Northwest Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
-,,68,Havaii,Hawaii,,
-,,69,Insulae Marianae,Mariana Islands,,
+#990000,Laughing\ Hyena,68,Havaii,Hawaii,590,1250
+#7851a9,A Whole,69,Insulae Marianae,Mariana Islands,6460,1550
 #DD6B6B,Sagalevo,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,,
 ,,72,Insula Paschalis,Easter Island,,
@@ -198,7 +198,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,195,Iana,Yana River,,
 ,,196,Colyma,Kolyma River,,
 ,,197,Tschucoticus,Chukotka,,
-,,198,Kenai,Kenai Peninsula,,
+#7851a9,A Whole,198,Kenai,Kenai Peninsula,800,280
 ,,199,Athabasca,Athabasca River,,
 ,,200,Dene,Dene,,
 ,,201,Laboratoria,Laboratory,,
@@ -206,7 +206,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
-,,206,Kazachia,Kazakhstan,,
+#090580,Solis Empire,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,,
 ,,208,Desertum Gobium,Gobi Desert,,
 ,,209,Somalia,Somalia,,
