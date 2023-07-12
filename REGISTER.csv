@@ -68,8 +68,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
 #000080,Pacific Northwest Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
-#990000,Laughing\ Hyena,68,Havaii,Hawaii,590,1250
-#7851a9,A Whole,69,Insulae Marianae,Mariana Islands,6460,1550
+#7851a9,A Whole,68,Havaii,Hawaii,590,1250
+,,69,Insulae Marianae,Mariana Islands,6460,1550
 #DD6B6B,Sagalevo,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,,
 ,,72,Insula Paschalis,Easter Island,,
@@ -107,7 +107,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #a32b22,Louisie,104,Danubia,Danubia,3650,780
 #111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
-,,107,Norvegia,Norway,,
+#990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,,
 ,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
