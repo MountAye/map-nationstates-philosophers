@@ -5,7 +5,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,3,Insulae Aleutiae,Aleutian Islands,,
 ,,4,Alasca,Alaska,,
 ,,5,Saskatchewan,Saskatchewan,1400,500
-#000080,Pacific Northwest Territories,6,Columbia Britannica,British Columbia,1100,450
+#000080,Pacific Northwest\ Territories,6,Columbia Britannica,British Columbia,1100,450
 #990000,Laughing\ Hyena,7,Haida Gwaii,Haida Gwaii,950,500
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
@@ -22,6 +22,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,,
+#DA291C,Mercenia,22.5,Swiss south,Swiss south,3270,860
 #111111,Avantgar-\ distisches\ Deutsch-\ land,23,Batavia,Batavia,3350,650
 #DA291C,Mercenia,23.5,Swiss,Swiss,3350,780
 ,,24,Neustria,Neustria,,
@@ -59,14 +60,14 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,,
 ,,58,Texia,Texas,,
-,,59,Mississippia,Mississippi,,
+#0000F2,Xavier\ The 1,59,Mississippia,Mississippi,1600,940
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 #0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
 #03045E,Kani,62,Chihuahua,Chihuahua,1270,1110
 #da1a35,Dansxen,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
-#000080,Pacific Northwest Territories,66,Oregonia,Oregon,1200,650
+#000080,Pacific Northwest\ Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 #7851a9,A Whole,68,Havaii,Hawaii,590,1250
 ,,69,Insulae Marianae,Mariana Islands,6460,1550
@@ -127,8 +128,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,124,Ciscaucasia,Ciscaucasia,,
 ,,125,Mauretania,Mauretania,,
 ,,126,Sahara,Sahara,,
-,,127,Libya,Libya,,
-,,128,Aegyptus,Egypt,,
+#003153,Frnakreich,127,Libya,Libya,3500,1400
+#003153,Frnakreich,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,,
 ,,130,Cammarunia,Cameroon,,
 ,,131,Kenia,Kenya,,
@@ -233,7 +234,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,230,Parthia,Parthia,,
 ,,231,Bengala,Bengal,,
 #03045E,Kani,232,California,California,1100,850
-,,233,Sudania,Sudan,,
+#003153,Frnakreich,233,Sudania,Sudan,3800,1550
 ,,234,Mozambicum,Mozambique,,
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,,
