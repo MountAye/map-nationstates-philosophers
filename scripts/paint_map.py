@@ -86,7 +86,7 @@ for n,name in enumerate(registered["STATE"].unique()):
             text = cv2.warpAffine(text, M, (text.shape[1], text.shape[0]))
             named[np.logical_and(text>255/2,mask_bright)] = np.array([0,0,0])
             named[np.logical_and(text>255/2,mask_dark)] = np.array([255,255,255])
-    print(f"TAGGING NAMES {n+1}: {name}")
+    print(f"TAGGING NAMES #{n+1}: {name}")
 
 io.imsave("latest.png",util.img_as_ubyte(named))
 
