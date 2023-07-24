@@ -132,7 +132,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #003153,Frnakreich,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,,
 ,,130,Cammarunia,Cameroon,,
-,,131,Kenia,Kenya,,
+#818589,Ernaska,131,Kenia,Kenya,3850,2020
 ,,132,Abyssinia,Ethiopia,,
 ,,133,Socotra,Socotra,,
 ,,134,Insulae Mascarene,Mascarene Islands,,
