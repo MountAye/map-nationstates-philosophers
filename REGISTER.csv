@@ -109,7 +109,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
-,,108,Crasnoiarium,Krasnoyarsk,,
+#4F5AFF,S1beria,108,Crasnoiarium,Krasnoyarsk,5220,380
 ,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
 #ff5f17,Vichevz,111,Finnia,Finland,3800,300
@@ -156,7 +156,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,152,Lapponia,Lapland,,
 ,,153,Tungusca,Tunguska,,
 ,,154,Lena,Lena River,,
-,,155,Cisbaicalia,Transbaikal,,
+#4F5AFF,S1beria,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 ,,157,Amur,Amur River,,
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
