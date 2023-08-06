@@ -133,7 +133,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,129,Malia,Mali,,
 ,,130,Cammarunia,Cameroon,,
 #818589,Ernaska,131,Kenia,Kenya,3850,2020
-,,132,Abyssinia,Ethiopia,,
+#006A4E,The\ Revolutionary\ Ternian Front,132,Abyssinia,Ethiopia,3860,1780
 ,,133,Socotra,Socotra,,
 ,,134,Insulae Mascarene,Mascarene Islands,,
 #FCD20E,Isla Pilipinas,135,Madagascaria,Madagascar,4030,2350
@@ -144,7 +144,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,140,Mare Arabicum,Arabian,,
 ,,141,Sri Lanca,Sri Lanca,,
 #646480,Shanlix,142,Mesopotamia,Mesopotamia,4150,1275
-,,143,Hidiazum,Hyderabad,,
+#006A4E,The\ Revolutionary\ Ternian Front,143,Hidiazum,Hyderabad,4100,1520
 ,,144,Media,Media,,
 #00afca,Daltanaes,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,,
@@ -170,16 +170,16 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,166,Birmania,Myanmar (Burma),,
 ,,167,Vietnamia,Vietnam,,
 ,,168,Thailandia,Thailand,,
-#E0115f,The Revolutionary\ Ternian Front,169,Malaesia,Malaysia,5560,1780
+,,169,Malaesia,Malaysia,5560,1780
 #008080,Floksoni,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,,
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,,
-#E0115f,The Revolutionary\ Ternian Front,176,Celebis,Celebes (Sulawesi),6080,1900
+,,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-#E0115f,The Revolutionary\ Ternian Front,178,Borneum,Borneo,5900,1850
+,,178,Borneum,Borneo,5900,1850
 #090580,Solis Empire,179,Casmir,Kashmir,4950,1000
 ,,180,Melanesia,Melanesia,,
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
@@ -210,7 +210,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #090580,Solis Empire,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,,
 ,,208,Desertum Gobium,Gobi Desert,,
-,,209,Somalia,Somalia,,
+#006A4E,The\ Revolutionary\ Ternian Front,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,,
 ,,211,Guinea,Guinea,,
 ,,212,Nigritania,Niger,,
