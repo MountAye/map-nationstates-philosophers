@@ -10,7 +10,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
 ,,10,Baffin,Baffin Island,,
-,,11,Groenlandia,Greenland,,
+#FFD700,New Vallhala,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,,
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,,
@@ -32,8 +32,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,28,Camtschatca,Kamchatka,,
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
-#BF0024,Japan\ Kinturu,31,Australia Occidentalis,Western Australia,6000,2400
-#BF0024,Japan\ Kinturu,32,Terra Reginae,Queen's Land,6600,2300
+,,31,Australia Occidentalis,Western Australia,6000,2400
+,,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,,
 ,,34,Australia Australis,Southern Australia,,
 ,,35,Cambria Australis,South Wales,,
@@ -71,7 +71,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 #7851a9,A Whole,68,Havaii,Hawaii,590,1250
 ,,69,Insulae Marianae,Mariana Islands,6460,1550
-#DD6B6B,Sagalevo,70,Insulae Marsaliensis,Marshall Islands,350,1700
+,,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,,
 ,,72,Insula Paschalis,Easter Island,,
 ,,73,Polynesia Centralis,Central Polynesia,,
@@ -105,12 +105,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #00ffff,Gato\ Sealans,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
-#a32b22,Louisie,104,Danubia,Danubia,3650,780
+,,104,Danubia,Danubia,3650,780
 #111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 #4F5AFF,S1beria,108,Crasnoiarium,Krasnoyarsk,5220,380
-,,109,Suecia,Sweden,3600,400
+#FFD700,New Vallhala,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
 #ff5f17,Vichevz,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,,
@@ -118,7 +118,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
 #f5f5f5,Social Democratic\ Societies,116,Novogardia,Novgorod,4000,350
-#a32b22,Louisie,117,Polonia,Poland,3680,640
+,,117,Polonia,Poland,3680,640
 #8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,,
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
@@ -154,7 +154,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,149,Orenburgum,Orenburg Oblast,,
 #090580,Solis Empire,150,Tibetum,Tibet,5200,1100
 ,,151,Altai,Altai Republic,,
-,,152,Lapponia,Lapland,,
+#FFD700,New Vallhala,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,,
 ,,154,Lena,Lena River,,
 #4F5AFF,S1beria,155,Cisbaicalia,Transbaikal,5450,370
@@ -172,7 +172,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,167,Vietnamia,Vietnam,,
 ,,168,Thailandia,Thailand,,
 ,,169,Malaesia,Malaysia,5560,1780
-#008080,Floksoni,170,Sumatra,Sumatra,5500,1900
+,,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,,
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
