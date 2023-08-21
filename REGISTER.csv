@@ -118,7 +118,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
 #f5f5f5,Social Democratic\ Societies,116,Novogardia,Novgorod,4000,350
-,,117,Polonia,Poland,3680,640
+#e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 #8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,,
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
