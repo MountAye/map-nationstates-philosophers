@@ -4,8 +4,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,,
 ,,4,Alasca,Alaska,,
-,,5,Saskatchewan,Saskatchewan,1400,500
-#000080,Pacific Northwest\ Territories,6,Columbia Britannica,British Columbia,1100,450
+#000080,Pacific\ Northwest\ Territories,5,Saskatchewan,Saskatchewan,1400,500
+#000080,Pacific\ Northwest\ Territories,6,Columbia Britannica,British Columbia,1100,450
 #990000,Laughing\ Hyena,7,Haida Gwaii,Haida Gwaii,950,500
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
@@ -67,7 +67,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
-#000080,Pacific Northwest\ Territories,66,Oregonia,Oregon,1200,650
+#000080,Pacific\ Northwest\ Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 #7851a9,A Whole,68,Havaii,Hawaii,590,1250
 ,,69,Insulae Marianae,Mariana Islands,6460,1550
