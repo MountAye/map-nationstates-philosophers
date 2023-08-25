@@ -163,7 +163,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,,
-,,161,Territorium Maritimum,Maritime Territory,,
+#c60b1e,Moldtina,161,Territorium Maritimum,Maritime Territory,6150,560
 #003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
 #003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,,
@@ -231,7 +231,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #f5f5f5,Social Democratic\ Societies,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,,
-,,229,Manchuria,Manchuria,,
+#c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
 ,,230,Parthia,Parthia,,
 ,,231,Bengala,Bengal,,
 #03045E,Kani,232,California,California,1100,850
