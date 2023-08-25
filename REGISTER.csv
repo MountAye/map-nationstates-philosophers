@@ -32,14 +32,14 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,28,Camtschatca,Kamchatka,,
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
-,,31,Australia Occidentalis,Western Australia,6000,2400
+#dc1517,Nekieo,31,Australia Occidentalis,Western Australia,6000,2400
 ,,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,,
 ,,34,Australia Australis,Southern Australia,,
 ,,35,Cambria Australis,South Wales,,
 #990000,Laughing\ Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
 ,,37,Te Waipounamu,South Island of New Zealand,120,2900
-,,38,Cambosia,Cambodia,,
+,,38,Cambosia,Cambodia,5600,1600
 ,,39,Tasmania,Tasmania,,
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
 #03045E,Kani,41,Mexicum,Mexico,1400,1300
@@ -169,7 +169,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,164,Flumen Margaritarum,Pearl River,,
 ,,165,Formosa,Taiwan,,
 ,,166,Birmania,Myanmar (Burma),,
-,,167,Vietnamia,Vietnam,,
+,,167,Vietnamia,Vietnam,5600,1500
 ,,168,Thailandia,Thailand,,
 ,,169,Malaesia,Malaysia,5560,1780
 ,,170,Sumatra,Sumatra,5500,1900
