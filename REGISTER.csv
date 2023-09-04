@@ -134,8 +134,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,130,Cammarunia,Cameroon,,
 #818589,Ernaska,131,Kenia,Kenya,3850,2020
 #006A4E,The\ Revolutionary\ Ternian Front,132,Abyssinia,Ethiopia,3860,1780
-,,133,Socotra,Socotra,,
-,,134,Insulae Mascarene,Mascarene Islands,,
+#8A1538,Qataz,133,Socotra,Socotra,4350,1750
+#8b1b48,Mykrill,134,Insulae Mascarene,Mascarene Islands,4520,2340
 #FCD20E,Isla Pilipinas,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
 #818589,Ernaska,137,Congo,Congo,3500,2000
@@ -173,7 +173,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,168,Thailandia,Thailand,,
 ,,169,Malaesia,Malaysia,5560,1780
 ,,170,Sumatra,Sumatra,5500,1900
-,,171,Andamanenses,Andaman Islands,,
+#8A1538,Qataz,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
