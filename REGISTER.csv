@@ -147,7 +147,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #006A4E,The\ Revolutionary\ Ternian Front,143,Hidiazum,Hyderabad,4100,1520
 #8A1538,Qataz,143.5,Customized,Qataz,4120,1680
 ,,144,Media,Media,,
-#00afca,Daltanaes,145,Maharastra,Maharashtra,4900,1500
+,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,,
 ,,147,Ganges,Ganges,,
 ,,148,Nenetsia,Nenets Autonomous Okrug,,
@@ -238,8 +238,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #003153,Frnakreich,233,Sudania,Sudan,3800,1550
 ,,234,Mozambicum,Mozambique,,
 ,,235,Gedrosia,Gedrosia,,
-#00afca,Daltanaes,236,Dravidia,Dravidian,4950,1700
-#00afca,Daltanaes,237,Odisa,Odisha,5100,1400
+,,236,Dravidia,Dravidian,4950,1700
+,,237,Odisa,Odisha,5100,1400
 ,,238,Thracia,Thrace,,
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,,
