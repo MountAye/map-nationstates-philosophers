@@ -47,14 +47,14 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
 ,,45,Guatemala,Guatemala,,
-#ff9248,Chetlosvakcos,46,Amazonia,Amazonia,2100,1900
+,,46,Amazonia,Amazonia,2100,1900
 ,,47,Peruvia,Peru,,
 ,,48,Columbia,Colombia,,
 ,,49,Caatinga,Caatinga,,
 ,,50,Guiana,Guiana,,
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
 ,,52,Atacama,Atacama,,
-#ff9248,Chetlosvakcos,53,Pantanal,Pantanal,2200,2100
+,,53,Pantanal,Pantanal,2200,2100
 ,,54,Brasilia Australis,Southern Brazil,,
 ,,55,Mare Caribaeum,Caribbean Sea,,
 #0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
@@ -250,7 +250,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,245,Transoxiana,Transoxiana,,
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
 ,,247,Venetiola,Venezuela,,
-#ff9248,Chetlosvakcos,248,Paraensis,Paraense,2300,1900
+,,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
 #8FBC8F,Bagrationi\ Dynasty,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,,
