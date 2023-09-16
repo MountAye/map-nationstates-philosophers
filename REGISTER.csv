@@ -102,7 +102,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,98,Sardinia,Sardinia,,
 #FFFAF0,Arcanterra,99,Italia Annonaria,Annonarian Italy,3400,880
 #FFFAF0,Arcanterra,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-#00ffff,Gato\ Sealans,101,Graecia,Greece,3720,1060
+,,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,,
 ,,103,Dacia,Dacia,,
 ,,104,Danubia,Danubia,3650,780
@@ -112,7 +112,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #4F5AFF,S1beria,108,Crasnoiarium,Krasnoyarsk,5220,380
 #FFD700,New Vallhala,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
-#ff5f17,Vichevz,111,Finnia,Finland,3800,300
+,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,,
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,,
