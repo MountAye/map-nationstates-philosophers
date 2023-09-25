@@ -16,7 +16,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,14,Ungava,Ungava,,
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
-,,17,Islandia,Iceland,2900,200
+#1971c2,Volurkunst,17,Islandia,Iceland,2900,200
 ,,18,Tzadia,Chad,,
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
@@ -78,7 +78,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #647A7D,Luqitiq,74,Insulae Salomanis,Solomon Islands,6670,1840
 ,,75,Polynesia Australis,Southern Polynesia,,
 ,,76,Flumen Circumpolare Antarcticum,Antarctic Circumpolar Current,,
-,,77,Insulae Galapagenses,Galapagos Islands,,
+#1971c2,Volurkunst,77,Insulae Galapagenses,Galapagos Islands,1570,1740
 ,,78,Gyrus Pacifici Australis,South Pacific Gyre,,
 ,,79,Flumen Humboldtianum,Humboldt Current,,
 #222222,The Imam\ Khannate,80,Insulae Bonin,Bonin Islands,6440,1270
@@ -102,8 +102,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,98,Sardinia,Sardinia,,
 #FFFAF0,Arcanterra,99,Italia Annonaria,Annonarian Italy,3400,880
 #FFFAF0,Arcanterra,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-,,101,Graecia,Greece,3720,1060
-,,102,Illyria,Illyria,,
+#3366cc,Emphand,101,Graecia,Greece,3720,1060
+#3366cc,Emphand,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,,
 ,,104,Danubia,Danubia,3650,780
 #111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
@@ -182,7 +182,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
 ,,178,Borneum,Borneo,5900,1850
 #090580,Solis Empire,179,Casmir,Kashmir,4950,1000
-,,180,Melanesia,Melanesia,,
+#1971c2,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
 ,,182,Gyrus Indici,Indian Ocean gyre,,
 ,,183,Archipelagus Crozetense,Crozet Islands,,
@@ -240,7 +240,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
-,,238,Thracia,Thrace,,
+#3366cc,Emphand,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,,
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
