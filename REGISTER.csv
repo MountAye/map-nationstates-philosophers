@@ -16,7 +16,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,14,Ungava,Ungava,,
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
-#1971c2,Volurkunst,17,Islandia,Iceland,2900,200
+#00008B,Volurkunst,17,Islandia,Iceland,2900,200
 ,,18,Tzadia,Chad,,
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
@@ -78,7 +78,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #647A7D,Luqitiq,74,Insulae Salomanis,Solomon Islands,6670,1840
 ,,75,Polynesia Australis,Southern Polynesia,,
 ,,76,Flumen Circumpolare Antarcticum,Antarctic Circumpolar Current,,
-#1971c2,Volurkunst,77,Insulae Galapagenses,Galapagos Islands,1570,1740
+#00008B,Volurkunst,77,Insulae Galapagenses,Galapagos Islands,1570,1740
 ,,78,Gyrus Pacifici Australis,South Pacific Gyre,,
 ,,79,Flumen Humboldtianum,Humboldt Current,,
 #222222,The Imam\ Khannate,80,Insulae Bonin,Bonin Islands,6440,1270
@@ -182,7 +182,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
 ,,178,Borneum,Borneo,5900,1850
 #090580,Solis Empire,179,Casmir,Kashmir,4950,1000
-#1971c2,Volurkunst,180,Melanesia,Melanesia,190,2150
+#00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
 ,,182,Gyrus Indici,Indian Ocean gyre,,
 ,,183,Archipelagus Crozetense,Crozet Islands,,
