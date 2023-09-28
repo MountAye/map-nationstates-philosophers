@@ -23,7 +23,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 #012294,Holzite,22,Occitania,Occitania,3180,900
 #DA291C,Mercenia,22.5,Swiss south,Swiss south,3270,860
-#111111,Avantgar-\ distisches\ Deutsch-\ land,23,Batavia,Batavia,3350,650
+#111111,Avantgar\ -distisches\ Deutsch\ -land,23,Batavia,Batavia,3350,650
 #DA291C,Mercenia,23.5,Swiss,Swiss,3350,780
 #012294,Holzite,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
@@ -104,9 +104,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FFFAF0,Arcanterra,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
 #3366cc,Emphand,101,Graecia,Greece,3720,1060
 #3366cc,Emphand,102,Illyria,Illyria,3630,920
-,,103,Dacia,Dacia,,
+#AA4A44,Theoly\ -wayoh,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
-#111111,Avantgar-\ distisches\ Deutsch-\ land,105,Germania,Germany,3500,660
+#111111,Avantgar\ -distisches\ Deutsch\ -land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 #4F5AFF,S1beria,108,Crasnoiarium,Krasnoyarsk,5220,380
