@@ -105,7 +105,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3366cc,Emphand,101,Graecia,Greece,3720,1060
 #3366cc,Emphand,102,Illyria,Illyria,3630,920
 #AA4A44,Theoly\ -wayoh,103,Dacia,Dacia,3850,800
-,,104,Danubia,Danubia,3650,780
+#e90019,Warszaw\ -skija,104,Danubia,Danubia,3650,780
 #111111,Avantgar\ -distisches\ Deutsch\ -land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
