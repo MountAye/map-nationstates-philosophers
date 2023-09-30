@@ -48,12 +48,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,44,Mare Tasmanianum,Tasman Sea,,
 ,,45,Guatemala,Guatemala,,
 ,,46,Amazonia,Amazonia,2100,1900
-,,47,Peruvia,Peru,,
-,,48,Columbia,Colombia,,
+#FDDC5C,Patria De Plata,47,Peruvia,Peru,1870,1950
+#FDDC5C,Patria De Plata,48,Columbia,Colombia,1910,1710
 ,,49,Caatinga,Caatinga,,
 ,,50,Guiana,Guiana,,
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
-,,52,Atacama,Atacama,,
+#FDDC5C,Patria De Plata,52,Atacama,Atacama,2020,2250
 ,,53,Pantanal,Pantanal,2200,2100
 ,,54,Brasilia Australis,Southern Brazil,,
 ,,55,Mare Caribaeum,Caribbean Sea,,
