@@ -55,7 +55,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
 #FDDC5C,Patria De Plata,52,Atacama,Atacama,2020,2250
 ,,53,Pantanal,Pantanal,2200,2100
-,,54,Brasilia Australis,Southern Brazil,,
+#033d1d,Brisante,54,Brasilia Australis,Southern Brazil,2430,2230
 ,,55,Mare Caribaeum,Caribbean Sea,,
 #0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,,
