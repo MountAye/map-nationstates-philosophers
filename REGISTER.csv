@@ -120,7 +120,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #f5f5f5,Social Democratic\ Societies,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 #8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
-,,119,Ucraina,Ukraine,,
+#AA4A44,Theoly\ -wayoh,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
 #f5f5f5,Social Democratic\ Societies,122,Moscovia,Muscovy,4100,500
@@ -168,11 +168,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,,
 ,,165,Formosa,Taiwan,,
-,,166,Birmania,Myanmar (Burma),,
+#dc241f,Valico Bell,166,Birmania,Myanmar (Burma),5360,1500
 ,,167,Vietnamia,Vietnam,5600,1500
 ,,168,Thailandia,Thailand,,
-,,169,Malaesia,Malaysia,5560,1780
-,,170,Sumatra,Sumatra,5500,1900
+#dc241f,Valico Bell,169,Malaesia,Malaysia,5560,1780
+#dc241f,Valico Bell,170,Sumatra,Sumatra,5500,1900
 #8A1538,Qataz,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
