@@ -138,6 +138,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #8b1b48,Mykrill,134,Insulae Mascarene,Mascarene Islands,4520,2340
 #FCD20E,Isla Pilipinas,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
+#F05E16,Qourtus,136.5,East Cape,Customized by Qourtus,3670,2570
 #818589,Ernaska,137,Congo,Congo,3500,2000
 ,,138,Flumen Agulhas,Agulhas Current,,
 ,,139,Oceanus Indicus Occidentalis,Western Indian Ocean,,
@@ -236,7 +237,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,231,Bengala,Bengal,,
 #03045E,Kani,232,California,California,1100,850
 #003153,Frnakreich,233,Sudania,Sudan,3800,1550
-,,234,Mozambicum,Mozambique,,
+#F05E16,Qourtus,234,Mozambicum,Mozambique,3780,2400
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
