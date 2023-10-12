@@ -10,7 +10,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,8,Kitlineq,Kitlineq,,
 ,,9,Nunavut,Nunavut,,
 ,,10,Baffin,Baffin Island,,
-#FFD700,New Vallhala,11,Groenlandia,Greenland,2500,125
+,,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,,
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,,
@@ -42,7 +42,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,38,Cambosia,Cambodia,5600,1600
 ,,39,Tasmania,Tasmania,,
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
-#03045E,Kani,41,Mexicum,Mexico,1400,1300
+,,41,Mexicum,Mexico,1400,1300
 ,,42,Samoa,Samoa,,
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
@@ -63,7 +63,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0000F2,Xavier\ The 1,59,Mississippia,Mississippi,1600,940
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 #0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
-#03045E,Kani,62,Chihuahua,Chihuahua,1270,1110
+,,62,Chihuahua,Chihuahua,1270,1110
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
@@ -109,37 +109,37 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #111111,Avantgar\ -distisches\ Deutsch\ -land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
-#4F5AFF,S1beria,108,Crasnoiarium,Krasnoyarsk,5220,380
-#FFD700,New Vallhala,109,Suecia,Sweden,3600,400
+,,108,Crasnoiarium,Krasnoyarsk,5220,380
+,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
 ,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,,
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,,
 ,,115,Nova Zembla,Novaya Zemlya,,
-#f5f5f5,Social Democratic\ Societies,116,Novogardia,Novgorod,4000,350
+,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 #8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
 #AA4A44,Theoly\ -wayoh,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
-#f5f5f5,Social Democratic\ Societies,122,Moscovia,Muscovy,4100,500
+,,122,Moscovia,Muscovy,4100,500
 #8FBC8F,Bagrationi\ Dynasty,123,Assyria,Assyria,4200,1120
 #c585f7,Mount-\ everlands,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,,
 ,,126,Sahara,Sahara,,
-#003153,Frnakreich,127,Libya,Libya,3500,1400
-#003153,Frnakreich,128,Aegyptus,Egypt,3800,1400
+,,127,Libya,Libya,3500,1400
+,,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,,
 ,,130,Cammarunia,Cameroon,,
-#818589,Ernaska,131,Kenia,Kenya,3850,2020
+,,131,Kenia,Kenya,3850,2020
 #006A4E,The\ Revolutionary\ Ternian Front,132,Abyssinia,Ethiopia,3860,1780
 #8A1538,Qataz,133,Socotra,Socotra,4350,1750
-#8b1b48,Mykrill,134,Insulae Mascarene,Mascarene Islands,4520,2340
-#FCD20E,Isla Pilipinas,135,Madagascaria,Madagascar,4030,2350
+,,134,Insulae Mascarene,Mascarene Islands,4520,2340
+,,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
 #F05E16,Qourtus,136.5,East Cape,Customized by Qourtus,3670,2570
-#818589,Ernaska,137,Congo,Congo,3500,2000
+,,137,Congo,Congo,3500,2000
 ,,138,Flumen Agulhas,Agulhas Current,,
 ,,139,Oceanus Indicus Occidentalis,Western Indian Ocean,,
 ,,140,Mare Arabicum,Arabian,,
@@ -153,12 +153,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,147,Ganges,Ganges,,
 ,,148,Nenetsia,Nenets Autonomous Okrug,,
 ,,149,Orenburgum,Orenburg Oblast,,
-#090580,Solis Empire,150,Tibetum,Tibet,5200,1100
+,,150,Tibetum,Tibet,5200,1100
 ,,151,Altai,Altai Republic,,
-#FFD700,New Vallhala,152,Lapponia,Lapland,3700,160
+,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,,
 ,,154,Lena,Lena River,,
-#4F5AFF,S1beria,155,Cisbaicalia,Transbaikal,5450,370
+,,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 ,,157,Amur,Amur River,,
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
@@ -182,7 +182,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
 ,,178,Borneum,Borneo,5900,1850
-#090580,Solis Empire,179,Casmir,Kashmir,4950,1000
+,,179,Casmir,Kashmir,4950,1000
 #00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
 ,,182,Gyrus Indici,Indian Ocean gyre,,
@@ -209,7 +209,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
-#090580,Solis Empire,206,Kazachia,Kazakhstan,4800,680
+,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,,
 ,,208,Desertum Gobium,Gobi Desert,,
 #006A4E,The\ Revolutionary\ Ternian Front,209,Somalia,Somalia,4080,1790
@@ -217,11 +217,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,211,Guinea,Guinea,,
 ,,212,Nigritania,Niger,,
 ,,213,Ngbandia,Ngbandi,,
-#818589,Ernaska,214,Angolia,Angola,3400,2250
+,,214,Angolia,Angola,3400,2250
 ,,215,Zambia,Zambia,,
 ,,216,Capitis Viridis,Cape Verde,,
 ,,217,Tuvalu,Tuvalu,,
-#647A7D,Luqitiq,218,Philippinae,Philippines,6000,1500
+#FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,,
 ,,220,Beninum,Benin,,
 ,,221,Sichuan,Sichuan,,
@@ -229,14 +229,14 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,223,Tobolium,Tobol River,,
 ,,224,Ienisea,Yenisei River,,
 ,,225,Mongolia Ulterior,Outer Mongolia,,
-#f5f5f5,Social Democratic\ Societies,226,Voronegia,Voronezh Oblast,4220,650
+,,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,,
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
 ,,230,Parthia,Parthia,,
 ,,231,Bengala,Bengal,,
-#03045E,Kani,232,California,California,1100,850
-#003153,Frnakreich,233,Sudania,Sudan,3800,1550
+,,232,California,California,1100,850
+,,233,Sudania,Sudan,3800,1550
 #F05E16,Qourtus,234,Mozambicum,Mozambique,3780,2400
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,4950,1700

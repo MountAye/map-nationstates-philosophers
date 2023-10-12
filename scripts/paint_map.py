@@ -34,14 +34,13 @@ for _,territroy in registered.dropna(subset="COLOR").iterrows():
     latest[territroy_land] = territroy_color
     mask_nations[morphology.binary_dilation(territory_all,footprint=np.ones((3,3),dtype=int))] = territroy_color
 print("PAINTED COLORS")
-mask_bright = np.dot(latest,np.array([0.299,0.587,0.114]))/255>0.70
-mask_dark = np.logical_not(mask_bright)
 
 named = latest.copy()
 named[(borders>0)] = np.array([255,255,255])
 for n,name in enumerate(registered["STATE"].unique()):
     entries = registered.loc[registered["STATE"].eq(name)]
     nation_color = hex2color(entries.loc[entries.index[0],"COLOR"])
+    name_color = np.array([0,0,0]) if np.dot(nation_color,np.array([0.299,0.587,0.114]))/255>0.70 else np.array([255,255,255])
     nation_territories = np.all(mask_nations==nation_color,axis=-1)
     # Because we don't know if their territories are connected:
     nation_territories_label = measure.label(nation_territories)
@@ -84,8 +83,7 @@ for n,name in enumerate(registered["STATE"].unique()):
                               )
             M = cv2.getRotationMatrix2D((xw,yw), angle, 1)
             text = cv2.warpAffine(text, M, (text.shape[1], text.shape[0]))
-            named[np.logical_and(text>255/2,mask_bright)] = np.array([0,0,0])
-            named[np.logical_and(text>255/2,mask_dark)] = np.array([255,255,255])
+            named[(text>255/2)] = name_color
     print(f"TAGGING NAMES #{n+1}: {name}")
 
 io.imsave("latest.png",util.img_as_ubyte(named))
