@@ -128,12 +128,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #c585f7,Mount-\ everlands,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,,
 ,,126,Sahara,Sahara,,
-,,127,Libya,Libya,3500,1400
-,,128,Aegyptus,Egypt,3800,1400
+#006A4E,The\ Revolutionary\ Ternian Front,127,Libya,Libya,3500,1400
+#006A4E,The\ Revolutionary\ Ternian Front,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,,
 ,,130,Cammarunia,Cameroon,,
 ,,131,Kenia,Kenya,3850,2020
-#006A4E,The\ Revolutionary\ Ternian Front,132,Abyssinia,Ethiopia,3860,1780
+,,132,Abyssinia,Ethiopia,3860,1780
 #8A1538,Qataz,133,Socotra,Socotra,4350,1750
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 ,,135,Madagascaria,Madagascar,4030,2350
@@ -212,7 +212,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,,
 ,,208,Desertum Gobium,Gobi Desert,,
-#006A4E,The\ Revolutionary\ Ternian Front,209,Somalia,Somalia,4080,1790
+,,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,,
 ,,211,Guinea,Guinea,,
 ,,212,Nigritania,Niger,,
