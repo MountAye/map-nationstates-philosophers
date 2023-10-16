@@ -134,7 +134,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,130,Cammarunia,Cameroon,,
 ,,131,Kenia,Kenya,3850,2020
 ,,132,Abyssinia,Ethiopia,3860,1780
-#8A1538,Qataz,133,Socotra,Socotra,4350,1750
+,,133,Socotra,Socotra,4350,1750
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 ,,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
@@ -146,7 +146,6 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,141,Sri Lanca,Sri Lanca,,
 #646480,Shanlix,142,Mesopotamia,Mesopotamia,4150,1275
 #006A4E,The\ Revolutionary\ Ternian Front,143,Hidiazum,Hyderabad,4100,1520
-#8A1538,Qataz,143.5,Customized,Qataz,4120,1680
 ,,144,Media,Media,,
 ,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,,
@@ -174,7 +173,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,168,Thailandia,Thailand,,
 #dc241f,Valico Bell,169,Malaesia,Malaysia,5560,1780
 #dc241f,Valico Bell,170,Sumatra,Sumatra,5500,1900
-#8A1538,Qataz,171,Andamanenses,Andaman Islands,5300,1650
+,,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
 ,,174,Mare Philippinense,Philippine Sea,,
@@ -209,9 +208,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
-,,206,Kazachia,Kazakhstan,4800,680
+#8A1538,Qataz,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,,
-,,208,Desertum Gobium,Gobi Desert,,
+#8A1538,Qataz,208,Desertum Gobium,Gobi Desert,5330,750
 ,,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,,
 ,,211,Guinea,Guinea,,
@@ -243,7 +242,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,237,Odisa,Odisha,5100,1400
 #3366cc,Emphand,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,,
-,,240,Mongolia Citerior,Inner Mongolia,,
+#8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
