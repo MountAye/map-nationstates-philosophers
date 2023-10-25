@@ -126,7 +126,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
 ,,122,Moscovia,Muscovy,4100,500
 #8FBC8F,Bagrationi\ Dynasty,123,Assyria,Assyria,4200,1120
-#c585f7,Mount-\ everlands,124,Ciscaucasia,Ciscaucasia,4250,800
+,,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,,
 ,,126,Sahara,Sahara,,
 #006A4E,The\ Revolutionary\ Ternian Front,127,Libya,Libya,3500,1400
@@ -139,7 +139,6 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 ,,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
-#F05E16,Qourtus,136.5,East Cape,Customized by Qourtus,3670,2570
 ,,137,Congo,Congo,3500,2000
 ,,138,Flumen Agulhas,Agulhas Current,,
 ,,139,Oceanus Indicus Occidentalis,Western Indian Ocean,,
@@ -224,7 +223,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,,
 ,,220,Beninum,Benin,,
-,,221,Sichuan,Sichuan,,
+#003399,MountAye,221,Sichuan,Sichuan,5500,1150
 ,,222,Zimbabua,Zimbabwe,,
 ,,223,Tobolium,Tobol River,,
 ,,224,Ienisea,Yenisei River,,
@@ -237,7 +236,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,231,Bengala,Bengal,,
 ,,232,California,California,1100,850
 ,,233,Sudania,Sudan,3800,1550
-#F05E16,Qourtus,234,Mozambicum,Mozambique,3780,2400
+,,234,Mozambicum,Mozambique,3780,2400
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
