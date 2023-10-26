@@ -159,7 +159,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,154,Lena,Lena River,,
 ,,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
-,,157,Amur,Amur River,,
+,,157,Amur,Amur River,5960,480
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,,
@@ -167,7 +167,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
 #003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,,
-,,165,Formosa,Taiwan,,
+#7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
 #dc241f,Valico Bell,166,Birmania,Myanmar (Burma),5360,1500
 ,,167,Vietnamia,Vietnam,5600,1500
 ,,168,Thailandia,Thailand,,

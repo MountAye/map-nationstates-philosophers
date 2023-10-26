@@ -40,7 +40,6 @@ named[(borders>0)] = np.array([255,255,255])
 for n,name in enumerate(registered["STATE"].unique()):
     entries = registered.loc[registered["STATE"].eq(name)]
     nation_color = hex2color(entries.loc[entries.index[0],"COLOR"])
-    name_color = np.array([0,0,0]) if np.dot(nation_color,np.array([0.299,0.587,0.114]))/255>0.70 else np.array([255,255,255])
     nation_territories = np.all(mask_nations==nation_color,axis=-1)
     # Because we don't know if their territories are connected:
     nation_territories_label = measure.label(nation_territories)
@@ -70,7 +69,7 @@ for n,name in enumerate(registered["STATE"].unique()):
             xw = int(x + scale * name_height * 1.2 * (w - (n_words-1)/2) * np.sin(angle/180*np.pi)) 
             yw = int(y + scale * name_height * 1.2 * (w - (n_words-1)/2) * np.cos(angle/180*np.pi)) 
             
-            text = cv2.putText(
+            text_core = cv2.putText(
                                img=np.zeros_like(base,dtype=np.uint8), # Image.
                                text=word,	                           # Text string to be drawn.
                                org=(xw,yw),	                           # Bottom-left corner of the text string in the image.
@@ -82,8 +81,11 @@ for n,name in enumerate(registered["STATE"].unique()):
                                bottomLeftOrigin=False,	               # When true, the image data origin is at the bottom-left corner. Otherwise, it is at the top-left corner.
                               )
             M = cv2.getRotationMatrix2D((xw,yw), angle, 1)
-            text = cv2.warpAffine(text, M, (text.shape[1], text.shape[0]))
-            named[(text>255/2)] = name_color
+            text_core = cv2.warpAffine(text_core, M, (text_core.shape[1], text_core.shape[0]))
+            text_core = (text_core>255/2)
+            text_edge = morphology.binary_dilation(text_core,footprint=np.ones((5,5)))
+            named[text_edge] = np.array([  0,  0,  0])
+            named[text_core] = np.array([255,255,255])
     print(f"TAGGING NAMES #{n+1}: {name}")
 
 io.imsave("latest.png",util.img_as_ubyte(named))
