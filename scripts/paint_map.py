@@ -83,7 +83,7 @@ for n,name in enumerate(registered["STATE"].unique()):
             M = cv2.getRotationMatrix2D((xw,yw), angle, 1)
             text_core = cv2.warpAffine(text_core, M, (text_core.shape[1], text_core.shape[0]))
             text_core = (text_core>255/2)
-            text_edge = morphology.binary_dilation(text_core,footprint=np.ones((5,5)))
+            text_edge = morphology.binary_dilation(text_core,footprint=np.ones((7,7)))
             named[text_edge] = np.array([  0,  0,  0])
             named[text_core] = np.array([255,255,255])
     print(f"TAGGING NAMES #{n+1}: {name}")
