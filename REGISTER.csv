@@ -235,7 +235,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
 ,,230,Parthia,Parthia,,
 ,,231,Bengala,Bengal,,
-,,232,California,California,1100,850
+#f7c600,New Mcdonald,232,California,California,1100,850
 ,,233,Sudania,Sudan,3800,1550
 ,,234,Mozambicum,Mozambique,3780,2400
 ,,235,Gedrosia,Gedrosia,,
