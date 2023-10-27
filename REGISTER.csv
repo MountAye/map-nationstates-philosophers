@@ -3,7 +3,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,1,Chatanga,Chatanga River,,
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,,
-,,4,Alasca,Alaska,,
+#CC0033,Yeeeeeeeurur\ -fdjdjskksk,4,Alasca,Alaska,700,180
 #000080,Pacific\ Northwest\ Territories,5,Saskatchewan,Saskatchewan,1400,500
 #000080,Pacific\ Northwest\ Territories,6,Columbia Britannica,British Columbia,1100,450
 #990000,Laughing\ Hyena,7,Haida Gwaii,Haida Gwaii,950,500
@@ -22,9 +22,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 #012294,Holzite,22,Occitania,Occitania,3180,900
-#DA291C,Mercenia,22.5,Swiss south,Swiss south,3270,860
+#DA291C,Mercenia,22.5,Swiss south,customized by Mercenia,3270,860
 #111111,Avantgar\ -distisches\ Deutsch\ -land,23,Batavia,Batavia,3350,650
-#DA291C,Mercenia,23.5,Swiss,Swiss,3350,780
+#DA291C,Mercenia,23.5,Swiss,customized by Mercenia,3350,780
 #012294,Holzite,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
@@ -64,6 +64,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 #0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,1270,1110
+#CC0033,Yeeeeeeeurur\ -fdjdjskksk,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,,
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
@@ -157,7 +158,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,,
 ,,154,Lena,Lena River,,
-,,155,Cisbaicalia,Transbaikal,5450,370
+#CC0033,Yeeeeeeeurur\ -fdjdjskksk,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 #c60b1e,Moldtina,157,Amur,Amur River,5960,480
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
