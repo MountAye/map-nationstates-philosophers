@@ -159,7 +159,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,154,Lena,Lena River,,
 ,,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
-,,157,Amur,Amur River,5960,480
+#c60b1e,Moldtina,157,Amur,Amur River,5960,480
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,,
