@@ -205,7 +205,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,199,Athabasca,Athabasca River,,
 ,,200,Dene,Dene,,
 ,,201,Laboratoria,Laboratory,,
-,,202,Flumen Argenteum,Silver River,,
+#B3C890,Krankheit,202,Flumen Argenteum,Silver River,2180,2380
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
