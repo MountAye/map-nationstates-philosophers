@@ -169,11 +169,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,,
 #7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
-#dc241f,Valico Bell,166,Birmania,Myanmar (Burma),5360,1500
+,,166,Birmania,Myanmar (Burma),5360,1500
 ,,167,Vietnamia,Vietnam,5600,1500
 ,,168,Thailandia,Thailand,,
-#dc241f,Valico Bell,169,Malaesia,Malaysia,5560,1780
-#dc241f,Valico Bell,170,Sumatra,Sumatra,5500,1900
+,,169,Malaesia,Malaysia,5560,1780
+,,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,,
