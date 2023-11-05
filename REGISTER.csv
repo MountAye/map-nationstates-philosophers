@@ -107,12 +107,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3366cc,Emphand,101,Graecia,Greece,3720,1060
 #3366cc,Emphand,102,Illyria,Illyria,3630,920
 #AA4A44,Theoly\ -wayoh,103,Dacia,Dacia,3850,800
-#e90019,Warszaw\ -skija,104,Danubia,Danubia,3650,780
+,,104,Danubia,Danubia,3650,780
 #111111,Avantgar\ -distisches\ Deutsch\ -land,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
-,,109,Suecia,Sweden,3600,400
+#e90019,Warszaw\ -skija,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,,
 ,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,,
@@ -181,7 +181,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,175,Iava,Java,,
 ,,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-,,178,Borneum,Borneo,5900,1850
+#e90019,Warszaw\ -skija,178,Borneum,Borneo,5900,1850
 ,,179,Casmir,Kashmir,4950,1000
 #00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
