@@ -23,7 +23,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 #012294,Holzite,22,Occitania,Occitania,3180,900
 #DA291C,Mercenia,22.5,Swiss south,customized by Mercenia,3270,860
-#111111,Avantgar\ -distisches\ Deutsch\ -land,23,Batavia,Batavia,3350,650
+,,23,Batavia,Batavia,3350,650
 #DA291C,Mercenia,23.5,Swiss,customized by Mercenia,3350,780
 #012294,Holzite,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
@@ -57,12 +57,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,53,Pantanal,Pantanal,2200,2100
 #033d1d,Brisante,54,Brasilia Australis,Southern Brazil,2430,2230
 ,,55,Mare Caribaeum,Caribbean Sea,,
-#0000F2,Xavier\ The 1,56,Florida,Florida,1850,1080
+,,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,,
 ,,58,Texia,Texas,,
-#0000F2,Xavier\ The 1,59,Mississippia,Mississippi,1600,940
+,,59,Mississippia,Mississippi,1600,940
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
-#0000F2,Xavier\ The 1,61,Carolinae,Carolina,1850,900
+,,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,1270,1110
 #CC0033,Yeeeeeeeurur\ -fdjdjskksk,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
 ,,63,Lacus Magni,Great Lakes,1720,760
@@ -104,11 +104,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,98,Sardinia,Sardinia,,
 #FFFAF0,Arcanterra,99,Italia Annonaria,Annonarian Italy,3400,880
 #FFFAF0,Arcanterra,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-#3366cc,Emphand,101,Graecia,Greece,3720,1060
-#3366cc,Emphand,102,Illyria,Illyria,3630,920
-#AA4A44,Theoly\ -wayoh,103,Dacia,Dacia,3850,800
+,,101,Graecia,Greece,3720,1060
+,,102,Illyria,Illyria,3630,920
+,,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
-#111111,Avantgar\ -distisches\ Deutsch\ -land,105,Germania,Germany,3500,660
+,,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
@@ -122,7 +122,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 #8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
-#AA4A44,Theoly\ -wayoh,119,Ucraina,Ukraine,3950,700
+,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
 ,,122,Moscovia,Muscovy,4100,500
@@ -241,7 +241,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,235,Gedrosia,Gedrosia,,
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
-#3366cc,Emphand,238,Thracia,Thrace,3800,900
+,,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,,
 #8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
