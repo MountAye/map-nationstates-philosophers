@@ -136,7 +136,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,130,Cammarunia,Cameroon,,
 ,,131,Kenia,Kenya,3850,2020
 ,,132,Abyssinia,Ethiopia,3860,1780
-,,133,Socotra,Socotra,4350,1750
+#646480,Shanlix,133,Socotra,Socotra,4350,1750
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 #0065BF,Telgan,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,,
