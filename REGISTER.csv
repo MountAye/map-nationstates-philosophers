@@ -121,12 +121,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,115,Nova Zembla,Novaya Zemlya,,
 ,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
-#8FBC8F,Bagrationi\ Dynasty,118,Cappadocia,Cappadocia,4100,1020
+,,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
 ,,122,Moscovia,Muscovy,4100,500
-#8FBC8F,Bagrationi\ Dynasty,123,Assyria,Assyria,4200,1120
+,,123,Assyria,Assyria,4200,1120
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,,
 ,,126,Sahara,Sahara,,
@@ -253,5 +253,5 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,247,Venetiola,Venezuela,,
 ,,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
-#8FBC8F,Bagrationi\ Dynasty,250,Lydia,Lydia,3900,1050
+,,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,,
