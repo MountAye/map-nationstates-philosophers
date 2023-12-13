@@ -14,10 +14,10 @@ registered = registered.dropna(subset="COLOR")
 
 config = json.load(open("config.json",'r'))
 
-base = io.imread("images/base.gif")
+base = np.squeeze(io.imread("images/base.gif",as_gray=True))
 mask_lands = (base > 0)
 mask_ocean = np.logical_not(mask_lands)
-borders = io.imread("images/border_lines.gif")
+borders = np.squeeze(io.imread("images/border_lines.gif",as_gray=True))
 
 latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
@@ -25,14 +25,14 @@ latest[mask_ocean] = hex2color(config["color_seas"])
 
 mask_nations = np.zeros((*base.shape,3),dtype=int)
 
-for _,territroy in registered.dropna(subset="COLOR").iterrows():
-    row = int(territroy["PIN_ROW"])
-    col = int(territroy["PIN_COL"])
+for _,territory in registered.dropna(subset="COLOR").iterrows():
+    row = int(territory["PIN_ROW"])
+    col = int(territory["PIN_COL"])
     territory_all = segmentation.flood(borders,(row,col),connectivity=1)
-    territroy_land = np.logical_and(mask_lands,territory_all)
-    territroy_color = hex2color(territroy["COLOR"])
-    latest[territroy_land] = territroy_color
-    mask_nations[morphology.binary_dilation(territory_all,footprint=np.ones((3,3),dtype=int))] = territroy_color
+    territory_land = np.logical_and(mask_lands,territory_all)
+    territory_color = hex2color(territory["COLOR"])
+    latest[territory_land] = territory_color
+    mask_nations[morphology.binary_dilation(territory_all,footprint=np.ones((3,3),dtype=int))] = territory_color
 print("PAINTED COLORS")
 
 named = latest.copy()
@@ -49,8 +49,7 @@ for n,name in enumerate(registered["STATE"].unique()):
         if angle < -90:
             angle = 180 + angle
 
-
-        words = name.split("\ ")
+        words = name.split(r"\ ")
         n_words = len(words)
         longest = sorted(words,key=lambda x:len(x),reverse=True)[0]
 

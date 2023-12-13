@@ -21,11 +21,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #0065BF,Telgan,21,Britannia,Britain,3150,570
-#012294,Holzite,22,Occitania,Occitania,3180,900
+,,22,Occitania,Occitania,3180,900
 #DA291C,Mercenia,22.5,Swiss south,customized by Mercenia,3270,860
 ,,23,Batavia,Batavia,3350,650
 #DA291C,Mercenia,23.5,Swiss,customized by Mercenia,3350,780
-#012294,Holzite,24,Neustria,Neustria,3220,750
+,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
 #222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
