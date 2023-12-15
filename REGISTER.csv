@@ -1,76 +1,73 @@
 COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,0,Mare Beringianum,Bering Sea,,
-,,1,Chatanga,Chatanga River,,
+#1C3578,Russia,1,Chatanga,Chatanga River,5520,175
 ,,2,Flumen Cromwellianum,Cromwell River,,
-,,3,Insulae Aleutiae,Aleutian Islands,,
+#0A3161,United States,3,Insulae Aleutiae,Aleutian Islands,480,510
 #0A3161,United States,4,Alasca,Alaska,700,180
 #D80621,Canada,5,Saskatchewan,Saskatchewan,1400,500
 #D80621,Canada,6,Columbia Britannica,British Columbia,1100,450
-,,7,Haida Gwaii,Haida Gwaii,950,500
-,,8,Kitlineq,Kitlineq,,
-,,9,Nunavut,Nunavut,,
-,,10,Baffin,Baffin Island,,
+#D80621,Canada,7,Haida Gwaii,Haida Gwaii,950,500
+#D80621,Canada,8,Kitlineq,Kitlineq,1400,100
+#D80621,Canada,9,Nunavut,Nunavut,1500,200
+#D80621,Canada,10,Baffin,Baffin Island,2050,160
 #D00C33,Greenland,11,Groenlandia,Greenland,2500,125
-,,12,Keewatin,Keewatin,,
+#D80621,Canada,12,Keewatin,Keewatin,1700,500
 #D80621,Canada,13,Canada,Canada,2000,600
-,,14,Ungava,Ungava,,
+#D80621,Canada,14,Ungava,Ungava,1990,430
 #D80621,Canada,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 #02529C,Iceland,17,Islandia,Iceland,2900,200
-,,18,Tzadia,Chad,,
-,,19,Hibernia,Ireland,3000,500
-,,20,Caledonia,Scotland,3130,330
-,,21,Britannia,Britain,3150,570
-,,22,Occitania,Occitania,3180,900
-,,22.5,Swiss south,customized by Mercenia,3270,860
-,,23,Batavia,Batavia,3350,650
-,,23.5,Swiss,customized by Mercenia,3350,780
-,,24,Neustria,Neustria,3220,750
+#002664,Chad,18,Tzadia,Chad,3500,1600
+#009A44,Ireland,19,Hibernia,Ireland,3000,500
+#005EB8,Scotland,20,Caledonia,Scotland,3130,330
+#EEEEEE,England,21,Britannia,Britain,3150,570
+#002395,France,22,Occitania,Occitania,3180,900
+#7A7B7A,Germany,23,Batavia,Batavia,3350,650
+#002395,France,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-,,27,Esonia,Hokkaido,6330,600
-,,28,Camtschatca,Kamchatka,,
-,,29,Iaponia Boreales,Northern Japan,6330,860
-,,30,Iaponia Australes,Southern Japan,6100,1200
-,,31,Australia Occidentalis,Western Australia,6000,2400
-,,32,Terra Reginae,Queen's Land,6600,2300
-,,33,Australia Septentrionalis,Northern Australia,6300,2300
-,,34,Australia Australis,Southern Australia,,
-,,35,Cambria Australis,South Wales,,
-,,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
-,,37,Te Waipounamu,South Island of New Zealand,120,2900
-,,38,Cambosia,Cambodia,5600,1600
-,,39,Tasmania,Tasmania,,
+#F3F3F3,Japan,27,Esonia,Hokkaido,6330,600
+#1C3578,Russia,28,Camtschatca,Kamchatka,6400,450
+#F3F3F3,Japan,29,Iaponia Boreales,Northern Japan,6330,860
+#F3F3F3,Japan,30,Iaponia Australes,Southern Japan,6100,1200
+#006946,Australia,31,Australia Occidentalis,Western Australia,6000,2400
+#006946,Australia,32,Terra Reginae,Queen's Land,6600,2300
+#006946,Australia,33,Australia Septentrionalis,Northern Australia,6300,2300
+#006946,Australia,34,Australia Australis,Southern Australia,6350,2500
+#006946,Australia,35,Cambria Australis,South Wales,6630,2550
+#4D487B,New Zealand,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
+#4D487B,New Zealand,37,Te Waipounamu,South Island of New Zealand,120,2900
+#032EA1,Cambodia,38,Cambosia,Cambodia,5600,1600
+#006946,Australia,39,Tasmania,Tasmania,6600,2800
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
-,,41,Mexicum,Mexico,1400,1300
-,,42,Samoa,Samoa,,
+#006341,Mexico,41,Mexicum,Mexico,1400,1300
+#CE1126,Samoa,42,Samoa,Samoa,540,2040
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
-,,45,Guatemala,Guatemala,,
-,,46,Amazonia,Amazonia,2100,1900
-,,47,Peruvia,Peru,1870,1950
-,,48,Columbia,Colombia,1910,1710
-,,49,Caatinga,Caatinga,,
-,,50,Guiana,Guiana,,
-,,51,Patagonia,Patagonia,2100,2650
-,,52,Atacama,Atacama,2020,2250
-,,53,Pantanal,Pantanal,2200,2100
-,,54,Brasilia Australis,Southern Brazil,2430,2230
-,,55,Mare Caribaeum,Caribbean Sea,,
-,,56,Florida,Florida,1850,1080
-,,57,Antillae,Antilles,,
-,,58,Texia,Texas,,
-,,59,Mississippia,Mississippi,1600,940
-,,60,Massachusetta,Massachusetts,2020,740
-,,61,Carolinae,Carolina,1850,900
-,,62,Chihuahua,Chihuahua,1270,1110
-,,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
-,,63,Lacus Magni,Great Lakes,1720,760
-,,64,Magnae Planities,Great Plains,,
-,,65,Dacota,Dakota,1450,670
-,,66,Oregonia,Oregon,1200,650
+#4997D0,Guatemala,45,Guatemala,Guatemala,1700,1500
+#009739,Brazil,46,Amazonia,Amazonia,2100,1900
+#C8102E,Peru,47,Peruvia,Peru,1870,1950
+#FFCD00,Colombia,48,Columbia,Colombia,1910,1710
+#009739,Brazil,49,Caatinga,Caatinga,2500,2000
+#FFD100,Guiana,50,Guiana,Guiana,2300,1700
+#6CACE4,Argentina,51,Patagonia,Patagonia,2100,2650
+#DA291C,Chile,52,Atacama,Atacama,2020,2250
+#009739,Brazil,53,Pantanal,Pantanal,2200,2100
+#009739,Brazil,54,Brasilia Australis,Southern Brazil,2430,2230
+#002D62,Antilles Islands,55,Mare Caribaeum,Caribbean Sea,1890,1300
+#0A3161,United States,56,Florida,Florida,1850,1080
+#002D62,Antilles Islands,57,Antillae,Antilles,2160,1350
+#0A3161,United States,58,Texia,Texas,1450,1000
+#0A3161,United States,59,Mississippia,Mississippi,1600,940
+#0A3161,United States,60,Massachusetta,Massachusetts,2020,740
+#0A3161,United States,61,Carolinae,Carolina,1850,900
+#006341,Mexico,62,Chihuahua,Chihuahua,1270,1110
+#0A3161,United States,63,Lacus Magni,Great Lakes,1720,760
+#0A3161,United States,64,Magnae Planities,Great Plains,1460,825
+#0A3161,United States,65,Dacota,Dakota,1450,670
+#0A3161,United States,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
-,,68,Havaii,Hawaii,590,1250
+#0A3161,United States,68,Havaii,Hawaii,590,1250
 ,,69,Insulae Marianae,Mariana Islands,6460,1550
 ,,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,,
@@ -98,9 +95,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,92,Azores,Azores,,
 ,,93,Oceanus Atlanticus Orientalis,Eastern Atlantic Ocean,,
 ,,94,Insulae Societalis,Society Islands,,
-#AA151B,Spain,95,Andalusia,Andalusia,2900,1100
-#AA151B,Spain,96,Castella,Castile,2930,1000
-#AA151B,Spain,97,Aragonia,Aragon,3080,1020
+#F1BF00,Spain,95,Andalusia,Andalusia,2900,1100
+#F1BF00,Spain,96,Castella,Castile,2930,1000
+#F1BF00,Spain,97,Aragonia,Aragon,3080,1020
 ,,98,Sardinia,Sardinia,,
 ,,99,Italia Annonaria,Annonarian Italy,3400,880
 ,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
@@ -108,7 +105,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
-,,105,Germania,Germany,3500,660
+#7A7B7A,Germany,105,Germania,Germany,3500,660
 #F0F0F0,Jerusalem,106,Syria,Syria,4000,1200
 ,,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
@@ -124,7 +121,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,3950,700
 ,,120,Baltica,Baltics,3820,500
-#DA291C,Georgia,121,Transcaucasia,Transcaucasia,4300,950
+#D9281B,Georgia,121,Transcaucasia,Transcaucasia,4300,950
 ,,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,4200,1120
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
@@ -154,7 +151,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,148,Nenetsia,Nenets Autonomous Okrug,,
 ,,149,Orenburgum,Orenburg Oblast,,
 ,,150,Tibetum,Tibet,5200,1100
-,,151,Altai,Altai Republic,,
+#FFD900,Mongolia,151,Altai,Altai,5300,600
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,,
 ,,154,Lena,Lena River,,
@@ -201,12 +198,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,195,Iana,Yana River,,
 ,,196,Colyma,Kolyma River,,
 ,,197,Tschucoticus,Chukotka,,
-,,198,Kenai,Kenai Peninsula,800,280
+#0A3161,United States,198,Kenai,Kenai Peninsula,800,280
 ,,199,Athabasca,Athabasca River,,
 ,,200,Dene,Dene,,
 ,,201,Laboratoria,Laboratory,,
-,,202,Flumen Argenteum,Silver River,2180,2380
-,,203,Terra Ignium,Tierra del Fuego,2050,2970
+#6CACE4,Argentina,202,Flumen Argenteum,Silver River,2180,2380
+#6CACE4,Argentina,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
 ,,205,Chorasmia,Khwarezm,,
 #00AFCA,Kazakhstan,206,Kazachia,Kazakhstan,4800,680
@@ -222,13 +219,13 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,216,Capitis Viridis,Cape Verde,,
 ,,217,Tuvalu,Tuvalu,,
 #0032A0,Philippines,218,Philippinae,Philippines,6000,1500
-,,219,Yucatania,Yucatan,,
+#006341,Mexico,219,Yucatania,Yucatan,1560,1400
 ,,220,Beninum,Benin,,
 ,,221,Sichuan,Sichuan,5500,1150
-#009739,Zimbabwe,222,Zimbabua,Zimbabwe,3650,2380
+#009535,Zimbabwe,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,,
 ,,224,Ienisea,Yenisei River,,
-#FFD900,Mongolia,225,Mongolia Ulterior,Outer Mongolia,,
+#FFD900,Mongolia,225,Mongolia Ulterior,Outer Mongolia,5600,600
 ,,226,Voronegia,Voronezh Oblast,4220,650
 ,,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,,
@@ -245,13 +242,13 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,239,Transbaicalia,Transbaikal,,
 ,,240,Mongolia Citerior,Inner Mongolia,5730,700
 ,,241,Kiangnanum,Jiangnan,5800,1150
-,,242,Alpes Iaponicae,Japanese Alps,6300,1000
+#F3F3F3,Japan,242,Alpes Iaponicae,Japanese Alps,6300,1000
 ,,243,Persia,Persia,4300,1300
 ,,244,Amdo,Amdo,,
 ,,245,Transoxiana,Transoxiana,,
-,,246,Chilia,Chilia Branch,1975,2625
-,,247,Venetiola,Venezuela,,
-,,248,Paraensis,Paraense,2300,1900
+#DA291C,Chile,246,Chilia,Chilia Branch,1975,2625
+#EF3340,Venezuela,247,Venetiola,Venezuela,2050,1600
+#009739,Brazil,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
 ,,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,,
