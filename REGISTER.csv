@@ -1,5 +1,5 @@
 COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
-,,0,Mare Beringianum,Bering Sea,,
+,,0,Mare Beringianum,Bering Sea,265,520
 ,,1,Chatanga,Chatanga River,5520,175
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,480,510
@@ -117,8 +117,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,4000,100
 ,,113,Mare Barentsianum,Barents Sea,,
-,,114,Biarmia,Bjarmaland,,
-,,115,Nova Zembla,Novaya Zemlya,,
+,,114,Biarmia,Bjarmaland,4160,280
+,,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
@@ -128,57 +128,57 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,4200,1120
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
-,,125,Mauretania,Mauretania,,
-,,126,Sahara,Sahara,,
+,,125,Mauretania,Mauretania,2950,1500
+,,126,Sahara,Sahara,3200,1400
 #006A4E,The\ Revolutionary\ Ternian Front,127,Libya,Libya,3500,1400
 #006A4E,The\ Revolutionary\ Ternian Front,128,Aegyptus,Egypt,3800,1400
-,,129,Malia,Mali,,
-,,130,Cammarunia,Cameroon,,
+,,129,Malia,Mali,3040,1600
+,,130,Cammarunia,Cameroon,3380,1900
 ,,131,Kenia,Kenya,3850,2020
 ,,132,Abyssinia,Ethiopia,3860,1780
 #646480,Shanlix,133,Socotra,Socotra,4350,1750
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 #0065BF,Telgan,135,Madagascaria,Madagascar,4030,2350
-,,136,Cape,Cape of Good Hope,,
+,,136,Cape,Cape of Good Hope,3600,2600
 ,,137,Congo,Congo,3500,2000
 ,,138,Flumen Agulhas,Agulhas Current,,
 ,,139,Oceanus Indicus Occidentalis,Western Indian Ocean,,
 ,,140,Mare Arabicum,Arabian,,
-,,141,Sri Lanca,Sri Lanca,,
+,,141,Sri Lanca,Sri Lanca,5050,1800
 #646480,Shanlix,142,Mesopotamia,Mesopotamia,4150,1275
 #006A4E,The\ Revolutionary\ Ternian Front,143,Hidiazum,Hyderabad,4100,1520
 #222222,The Imam\ Khannate,144,Media,Media,4400,1150
 ,,145,Maharastra,Maharashtra,4900,1500
-,,146,Afgania,Afghanistan,,
-,,147,Ganges,Ganges,,
-,,148,Nenetsia,Nenets Autonomous Okrug,,
-,,149,Orenburgum,Orenburg Oblast,,
+,,146,Afgania,Afghanistan,4600,1120
+,,147,Ganges,Ganges,4960,1245
+,,148,Nenetsia,Nenets Autonomous Okrug,4450,250
+,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
-,,151,Altai,Altai Republic,,
+,,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
-,,153,Tungusca,Tunguska,,
-,,154,Lena,Lena River,,
+,,153,Tungusca,Tunguska,5285,235
+,,154,Lena,Lena River,5700,220
 #CC0033,Yeeeeeeeurur\ -fdjdjskksk,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 #c60b1e,Moldtina,157,Amur,Amur River,5960,480
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
-,,160,Insulae Lineae,Line Islands,,
+,,160,Insulae Lineae,Line Islands,685,1700
 #c60b1e,Moldtina,161,Territorium Maritimum,Maritime Territory,6150,560
 #003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
 #003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
-,,164,Flumen Margaritarum,Pearl River,,
+,,164,Flumen Margaritarum,Pearl River,5725,1280
 #7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
 ,,166,Birmania,Myanmar (Burma),5360,1500
 ,,167,Vietnamia,Vietnam,5600,1500
-,,168,Thailandia,Thailand,,
+,,168,Thailandia,Thailand,5500,1500
 ,,169,Malaesia,Malaysia,5560,1780
 ,,170,Sumatra,Sumatra,5500,1900
 ,,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
-,,173,Hainania,Hainan,,
+,,173,Hainania,Hainan,5700,1435
 ,,174,Mare Philippinense,Philippine Sea,,
-,,175,Iava,Java,,
+,,175,Iava,Java,5850,2080
 ,,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
 #e90019,Warszaw\ -skija,178,Borneum,Borneo,5900,1850
@@ -190,68 +190,68 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,184,Oceanus Indicus Australis,Southern Indian Ocean,,
 ,,185,Oceanus Atlanticus Septentrionalis,North Atlantic Ocean,,
 ,,186,Mare Norvegicum,Norwegian Sea,,
-,,187,Tarim,Tarim Basin,,
+,,187,Tarim,Tarim Basin,5090,850
 #c1272d,Sunrise\ Trail,188,Marocum,Morocco,2950,1300
-,,189,Casanum,Caspian Sea,,
-,,190,Numidia,Numidia,,
-,,191,Finmarchia,Finnmark,,
-,,192,Taimyr,Taymyr Peninsula,,
-,,193,Tomium,Tom River,,
-,,194,Iamalia,Yamalia,,
-,,195,Iana,Yana River,,
-,,196,Colyma,Kolyma River,,
-,,197,Tschucoticus,Chukotka,,
+,,189,Casanum,Caspian Sea,4300,500
+,,190,Numidia,Numidia,3260,1220
+,,191,Finmarchia,Finnmark,3680,80
+,,192,Taimyr,Taymyr Peninsula,5250,80
+,,193,Tomium,Tom River,5000,440
+,,194,Iamalia,Yamalia,4820,250
+,,195,Iana,Yana River,5950,240
+,,196,Colyma,Kolyma River,6200,200
+,,197,Tschucoticus,Chukotka,6500,200
 #7851a9,A Whole,198,Kenai,Kenai Peninsula,800,280
-,,199,Athabasca,Athabasca River,,
-,,200,Dene,Dene,,
-,,201,Laboratoria,Laboratory,,
+,,199,Athabasca,Athabasca River,1250,350
+,,200,Dene,Dene,1060,220
+,,201,Laboratoria,Laboratory,2200,450
 #B3C890,Krankheit,202,Flumen Argenteum,Silver River,2180,2380
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 ,,204,Nivata,Nivat,,
-,,205,Chorasmia,Khwarezm,,
+,,205,Chorasmia,Khwarezm,4500,800
 #8A1538,Qataz,206,Kazachia,Kazakhstan,4800,680
-,,207,Indus,Indus River,,
+,,207,Indus,Indus River,4750,1200
 #8A1538,Qataz,208,Desertum Gobium,Gobi Desert,5330,750
 ,,209,Somalia,Somalia,4080,1790
-,,210,Naimbia,Namibia,,
-,,211,Guinea,Guinea,,
-,,212,Nigritania,Niger,,
-,,213,Ngbandia,Ngbandi,,
+,,210,Naimbia,Namibia,3450,2460
+,,211,Guinea,Guinea,2935,1740
+,,212,Nigritania,Niger,3260,1580
+,,213,Ngbandia,Ngbandi,3560,1760
 ,,214,Angolia,Angola,3400,2250
-,,215,Zambia,Zambia,,
-,,216,Capitis Viridis,Cape Verde,,
-,,217,Tuvalu,Tuvalu,,
+,,215,Zambia,Zambia,3650,2210
+,,216,Capitis Viridis,Cape Verde,2640,1580
+,,217,Tuvalu,Tuvalu,415,1935
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
-,,219,Yucatania,Yucatan,,
-,,220,Beninum,Benin,,
+,,219,Yucatania,Yucatan,1570,1390
+,,220,Beninum,Benin,3220,1760
 #003399,MountAye,221,Sichuan,Sichuan,5500,1150
 #3366cc,Emphand,222,Zimbabua,Zimbabwe,3650,2380
-,,223,Tobolium,Tobol River,,
-,,224,Ienisea,Yenisei River,,
+,,223,Tobolium,Tobol River,4750,400
+,,224,Ienisea,Yenisei River,5040,230
 ,,225,Mongolia Ulterior,Outer Mongolia,5600,600
 ,,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
-,,228,Omium,Omsk,,
+,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
-,,230,Parthia,Parthia,,
-,,231,Bengala,Bengal,,
+,,230,Parthia,Parthia,4575,960
+,,231,Bengala,Bengal,5255,1255
 ,,232,California,California,1100,850
 ,,233,Sudania,Sudan,3800,1550
 ,,234,Mozambicum,Mozambique,3780,2400
-,,235,Gedrosia,Gedrosia,,
+,,235,Gedrosia,Gedrosia,4540,1330
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
 ,,238,Thracia,Thrace,3800,900
-,,239,Transbaicalia,Transbaikal,,
+,,239,Transbaicalia,Transbaikal,5630,455
 #8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
 #003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
-,,244,Amdo,Amdo,,
-,,245,Transoxiana,Transoxiana,,
+,,244,Amdo,Amdo,5320,930
+,,245,Transoxiana,Transoxiana,4770,860
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
-,,247,Venetiola,Venezuela,,
+,,247,Venetiola,Venezuela,2050,1600
 ,,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
 ,,250,Lydia,Lydia,3900,1050
-,,251,Ultima Thule,Ultima Thule,,
+,,251,Ultima Thule,Ultima Thule,2595,5
