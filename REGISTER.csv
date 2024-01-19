@@ -119,13 +119,13 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,4160,280
 ,,115,Nova Zembla,Novaya Zemlya,4335,120
-,,116,Novogardia,Novgorod,4000,350
+#C70039,Eurasia 3,116,Novogardia,Novgorod,4000,350
 #e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
-,,119,Ucraina,Ukraine,3950,700
+#C70039,Eurasia 3,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
-,,122,Moscovia,Muscovy,4100,500
+#C70039,Eurasia 3,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,4200,1120
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,2950,1500
@@ -225,11 +225,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
 #003399,MountAye,221,Sichuan,Sichuan,5500,1150
-#3366cc,Emphand,222,Zimbabua,Zimbabwe,3650,2380
+,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
 ,,225,Mongolia Ulterior,Outer Mongolia,5600,600
-,,226,Voronegia,Voronezh Oblast,4220,650
+#C70039,Eurasia 3,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
