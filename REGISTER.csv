@@ -22,9 +22,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,3180,900
-#DA291C,Mercenia,22.5,Swiss south,customized by Mercenia,3270,860
 ,,23,Batavia,Batavia,3350,650
-#DA291C,Mercenia,23.5,Swiss,customized by Mercenia,3350,780
 ,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
@@ -165,8 +163,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,685,1700
 #c60b1e,Moldtina,161,Territorium Maritimum,Maritime Territory,6150,560
-#003399,MountAye,162,Planum Sinense,Chinese Plain,5850,950
-#003399,MountAye,163,Flumen Flavum,Yellow River,5640,950
+#3C70C6,MountAye,162,Planum Sinense,Chinese Plain,5850,950
+#3C70C6,MountAye,163,Flumen Flavum,Yellow River,5640,950
 ,,164,Flumen Margaritarum,Pearl River,5725,1280
 #7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
 ,,166,Birmania,Myanmar (Burma),5360,1500
@@ -224,7 +222,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
-#003399,MountAye,221,Sichuan,Sichuan,5500,1150
+#3C70C6,MountAye,221,Sichuan,Sichuan,5500,1150
 ,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
@@ -244,7 +242,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,5630,455
 #8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
-#003399,MountAye,241,Kiangnanum,Jiangnan,5800,1150
+#3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
 ,,244,Amdo,Amdo,5320,930
