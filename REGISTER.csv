@@ -30,9 +30,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,28,Camtschatca,Kamchatka,6400,450
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
-#1D94D0,Nekiu,31,Australia Occidentalis,Western Australia,6000,2400
-#1D94D0,Nekiu,32,Terra Reginae,Queen's Land,6600,2300
-#1D94D0,Nekiu,33,Australia Septentrionalis,Northern Australia,6300,2300
+,,31,Australia Occidentalis,Western Australia,6000,2400
+,,32,Terra Reginae,Queen's Land,6600,2300
+,,33,Australia Septentrionalis,Northern Australia,6300,2300
 ,,34,Australia Australis,Southern Australia,6350,2500
 ,,35,Cambria Australis,South Wales,6630,2550
 #990000,Laughing\ Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
