@@ -3,7 +3,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,1,Chatanga,Chatanga River,5520,175
 ,,2,Flumen Cromwellianum,Cromwell River,,
 ,,3,Insulae Aleutiae,Aleutian Islands,480,510
-#CC0033,Yeeeeeeeurur\ -fdjdjskksk,4,Alasca,Alaska,700,180
+,,4,Alasca,Alaska,700,180
 #000080,Pacific\ Northwest\ Territories,5,Saskatchewan,Saskatchewan,1400,500
 #000080,Pacific\ Northwest\ Territories,6,Columbia Britannica,British Columbia,1100,450
 #990000,Laughing\ Hyena,7,Haida Gwaii,Haida Gwaii,950,500
@@ -62,7 +62,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 ,,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,1270,1110
-#CC0033,Yeeeeeeeurur\ -fdjdjskksk,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
+,,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,1460,825
 #7851a9,A Whole,65,Dacota,Dakota,1450,670
@@ -156,7 +156,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
 ,,154,Lena,Lena River,5700,220
-#CC0033,Yeeeeeeeurur\ -fdjdjskksk,155,Cisbaicalia,Transbaikal,5450,370
+,,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 #c60b1e,Moldtina,157,Amur,Amur River,5960,480
 #222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
