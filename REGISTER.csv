@@ -13,7 +13,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #e90019,Warszaw\ -skija,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
-,,14,Ungava,Ungava,1990,430
+#0040a4,Lower Quebec,14,Ungava,Ungava,1990,430
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 #00008B,Volurkunst,17,Islandia,Iceland,2900,200
@@ -99,7 +99,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #005eb8,Abide,95,Andalusia,Andalusia,2900,1100
 #005eb8,Abide,96,Castella,Castile,2930,1000
 #005eb8,Abide,97,Aragonia,Aragon,3080,1020
-,,98,Sardinia,Sardinia,3350,1040
+#fec91f,Thelhalion,98,Sardinia,Sardinia,3350,1040
 ,,99,Italia Annonaria,Annonarian Italy,3400,880
 ,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
 ,,101,Graecia,Greece,3720,1060
