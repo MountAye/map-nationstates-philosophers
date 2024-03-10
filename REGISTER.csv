@@ -13,7 +13,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #e90019,Warszaw\ -skija,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
-#0040a4,Lower Quebec,14,Ungava,Ungava,1990,430
+,,14,Ungava,Ungava,1990,430
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 #00008B,Volurkunst,17,Islandia,Iceland,2900,200
@@ -21,9 +21,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,19,Hibernia,Ireland,3000,500
 #0065BF,Telgan,20,Caledonia,Scotland,3130,330
 #0065BF,Telgan,21,Britannia,Britain,3150,570
-,,22,Occitania,Occitania,3180,900
-,,23,Batavia,Batavia,3350,650
-,,24,Neustria,Neustria,3220,750
+#fff200,EldenGrace,22,Occitania,Occitania,3180,900
+#fff200,EldenGrace,23,Batavia,Batavia,3350,650
+#fff200,EldenGrace,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
 #222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
@@ -100,9 +100,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #005eb8,Abide,96,Castella,Castile,2930,1000
 #005eb8,Abide,97,Aragonia,Aragon,3080,1020
 #fec91f,Thelhalion,98,Sardinia,Sardinia,3350,1040
-,,99,Italia Annonaria,Annonarian Italy,3400,880
-,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-,,101,Graecia,Greece,3720,1060
+#fff200,EldenGrace,99,Italia Annonaria,Annonarian Italy,3400,880
+#cb0b2e,Aric Imperium,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
+#cb0b2e,Aric Imperium,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
@@ -239,7 +239,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,235,Gedrosia,Gedrosia,4540,1330
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
-,,238,Thracia,Thrace,3800,900
+#cb0b2e,Aric Imperium,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,5630,455
 #8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
@@ -251,5 +251,5 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,247,Venetiola,Venezuela,2050,1600
 ,,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
-,,250,Lydia,Lydia,3900,1050
+#cb0b2e,Aric Imperium,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,2595,5
