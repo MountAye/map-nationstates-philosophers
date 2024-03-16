@@ -10,7 +10,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,8,Kitlineq,Kitlineq,1400,100
 ,,9,Nunavut,Nunavut,1500,200
 ,,10,Baffin,Baffin Island,2050,160
-#e90019,Warszaw\ -skija,11,Groenlandia,Greenland,2500,125
+,,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
 #499b4a,Free Free Free,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,1990,430
@@ -23,7 +23,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,3180,900
 ,,23,Batavia,Batavia,3350,650
-,,24,Neustria,Neustria,3220,750
+#e90019,Warszawskija,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
 #222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
@@ -100,7 +100,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #005eb8,Abide,96,Castella,Castile,2930,1000
 #005eb8,Abide,97,Aragonia,Aragon,3080,1020
 #fec91f,Thelhalion,98,Sardinia,Sardinia,3350,1040
-,,99,Italia Annonaria,Annonarian Italy,3400,880
+#e90019,Warszawskija,99,Italia Annonaria,Annonarian Italy,3400,880
 ,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
 ,,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,3630,920
@@ -110,7 +110,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
-#e90019,Warszaw\ -skija,109,Suecia,Sweden,3600,400
+#e90019,Warszawskija,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,4545,450
 ,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,4000,100
@@ -118,7 +118,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,114,Biarmia,Bjarmaland,4160,280
 ,,115,Nova Zembla,Novaya Zemlya,4335,120
 #C70039,Eurasia 3,116,Novogardia,Novgorod,4000,350
-#e90019,Warszaw\ -skija,117,Polonia,Poland,3680,640
+#e90019,Warszawskija,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
 #C70039,Eurasia 3,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
@@ -179,7 +179,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,175,Iava,Java,5850,2080
 ,,176,Celebis,Celebes (Sulawesi),6080,1900
 #647A7D,Luqitiq,177,Papua,Papua,6400,1900
-#e90019,Warszaw\ -skija,178,Borneum,Borneo,5900,1850
+,,178,Borneum,Borneo,5900,1850
 ,,179,Casmir,Kashmir,4950,1000
 #00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,

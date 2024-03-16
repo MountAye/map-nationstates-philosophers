@@ -24,15 +24,14 @@ latest[mask_lands] = hex2color(config["color_land"])
 latest[mask_ocean] = hex2color(config["color_seas"])
 
 mask_nations = np.zeros((*base.shape,3),dtype=int)
-
 for _,territory in registered.dropna(subset="COLOR").iterrows():
     row = int(territory["PIN_ROW"])
     col = int(territory["PIN_COL"])
-    territory_all = segmentation.flood(borders,(row,col),connectivity=1)
-    territory_land = np.logical_and(mask_lands,territory_all)
+    territory_both = segmentation.flood(borders,(row,col),connectivity=1)
+    territory_land = np.logical_and(mask_lands,territory_both)
     territory_color = hex2color(territory["COLOR"])
     latest[territory_land] = territory_color
-    mask_nations[morphology.binary_dilation(territory_all,footprint=np.ones((3,3),dtype=int))] = territory_color
+    mask_nations[morphology.binary_dilation(territory_both,footprint=np.ones((3,3),dtype=int))] = territory_color
 print("PAINTED COLORS")
 
 named = latest.copy()
