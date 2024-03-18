@@ -23,23 +23,31 @@ latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
 latest[mask_ocean] = hex2color(config["color_seas"])
 
-mask_nations = np.zeros((*base.shape,3),dtype=int)
-for _,territory in registered.dropna(subset="COLOR").iterrows():
-    row = int(territory["PIN_ROW"])
-    col = int(territory["PIN_COL"])
-    territory_both = segmentation.flood(borders,(row,col),connectivity=1)
-    territory_land = np.logical_and(mask_lands,territory_both)
-    territory_color = hex2color(territory["COLOR"])
-    latest[territory_land] = territory_color
-    mask_nations[morphology.binary_dilation(territory_both,footprint=np.ones((3,3),dtype=int))] = territory_color
-print("PAINTED COLORS")
+for color in registered['COLOR'].unique():
+    mask_color = np.zeros(base.shape,dtype=bool)
+    for _,territory in registered[registered['COLOR'].eq(color)].iterrows():
+        row = int(territory["PIN_ROW"])
+        col = int(territory["PIN_COL"])
+        territory_both = segmentation.flood(borders,(row,col),connectivity=1)
+        territory_land = np.logical_and(mask_lands,territory_both)
+        territory_land = morphology.binary_dilation(territory_land,footprint=np.ones((3,3),dtype=bool))
+        mask_color[territory_land] = True
+    latest[mask_color] = hex2color(color)
+    mask_erosion = morphology.binary_dilation(mask_color,footprint=np.ones((5,5),dtype=bool))
+    color_border = np.logical_xor(mask_color,mask_erosion)
+    latest[np.logical_and(color_border,mask_lands)] = np.array([  0,  0,  0])
+    print("... painting color:",color)
+print("COLORS PAINTED")
 
 named = latest.copy()
-named[(borders>0)] = np.array([255,255,255])
 for n,name in enumerate(registered["STATE"].unique()):
     entries = registered.loc[registered["STATE"].eq(name)]
-    nation_color = hex2color(entries.loc[entries.index[0],"COLOR"])
-    nation_territories = np.all(mask_nations==nation_color,axis=-1)
+    nation_territories = np.zeros(base.shape,dtype=bool)
+    for _,entry in entries.iterrows():
+        name_territory = segmentation.flood(borders,(int(entry['PIN_ROW']),int(entry['PIN_COL'])),connectivity=1)
+        name_territory = morphology.binary_dilation(name_territory,footprint=np.ones((3,3),dtype=bool))
+        nation_territories[name_territory] = True
+    # nation_territories = np.all(mask_nations==nation_color,axis=-1)
     # Because we don't know if their territories are connected:
     nation_territories_label = measure.label(nation_territories)
     for prop_territory_all in measure.regionprops(nation_territories_label):
@@ -54,7 +62,7 @@ for n,name in enumerate(registered["STATE"].unique()):
 
         (name_width,name_height),_ = cv2.getTextSize(longest,fontFace=cv2.FONT_HERSHEY_TRIPLEX,fontScale=1,thickness=1)
         scale_x = 0.8 * prop_territory_all.axis_major_length / name_width
-        scale_y = 0.8 * prop_territory_all.axis_minor_length / name_height / n_words
+        scale_y = 0.8 * prop_territory_all.axis_minor_length / name_height
         scale = min([scale_x,scale_y])
 
         y,x = prop_territory_all.centroid
@@ -84,7 +92,7 @@ for n,name in enumerate(registered["STATE"].unique()):
             text_edge = morphology.binary_dilation(text_core,footprint=np.ones((7,7)))
             named[text_edge] = np.array([  0,  0,  0])
             named[text_core] = np.array([255,255,255])
-    print(f"TAGGING NAMES #{n+1}: {name}")
+    print(f"... printing names #{n+1}: {name}")
 
 io.imsave("latest.png",util.img_as_ubyte(named))
 
