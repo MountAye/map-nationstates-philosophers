@@ -99,7 +99,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #005eb8,Abide,95,Andalusia,Andalusia,2900,1100
 #005eb8,Abide,96,Castella,Castile,2930,1000
 #005eb8,Abide,97,Aragonia,Aragon,3080,1020
-#fec91f,Thelhalion,98,Sardinia,Sardinia,3350,1040
+,,98,Sardinia,Sardinia,3350,1040
 #e90019,Warszawskija,99,Italia Annonaria,Annonarian Italy,3400,880
 ,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
 ,,101,Graecia,Greece,3720,1060
@@ -207,9 +207,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
 #d69400,Lincows,204,Nivata,Nivat,1270,860
 ,,205,Chorasmia,Khwarezm,4500,800
-#8A1538,Qataz,206,Kazachia,Kazakhstan,4800,680
+,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,4750,1200
-#8A1538,Qataz,208,Desertum Gobium,Gobi Desert,5330,750
+,,208,Desertum Gobium,Gobi Desert,5330,750
 ,,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,3450,2460
 ,,211,Guinea,Guinea,2935,1740
@@ -222,7 +222,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
-#3C70C6,MountAye,221,Sichuan,Sichuan,5500,1150
+,,221,Sichuan,Sichuan,5500,1150
 ,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
@@ -241,7 +241,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,237,Odisa,Odisha,5100,1400
 ,,238,Thracia,Thrace,3800,900
 ,,239,Transbaicalia,Transbaikal,5630,455
-#8A1538,Qataz,240,Mongolia Citerior,Inner Mongolia,5730,700
+#3C70C6,MountAye,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
