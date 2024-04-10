@@ -128,8 +128,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,2950,1500
 ,,126,Sahara,Sahara,3200,1400
-#006A4E,The\ Revolutionary\ Ternian Front,127,Libya,Libya,3500,1400
-#006A4E,The\ Revolutionary\ Ternian Front,128,Aegyptus,Egypt,3800,1400
+,,127,Libya,Libya,3500,1400
+,,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,3040,1600
 ,,130,Cammarunia,Cameroon,3380,1900
 ,,131,Kenia,Kenya,3850,2020
@@ -144,7 +144,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,140,Mare Arabicum,Arabian,,
 ,,141,Sri Lanca,Sri Lanca,5050,1800
 #646480,Shanlix,142,Mesopotamia,Mesopotamia,4150,1275
-#006A4E,The\ Revolutionary\ Ternian Front,143,Hidiazum,Hyderabad,4100,1520
+,,143,Hidiazum,Hyderabad,4100,1520
 #222222,The Imam\ Khannate,144,Media,Media,4400,1150
 ,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,4600,1120
