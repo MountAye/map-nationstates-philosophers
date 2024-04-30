@@ -46,12 +46,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,44,Mare Tasmanianum,Tasman Sea,,
 ,,45,Guatemala,Guatemala,1700,1500
 ,,46,Amazonia,Amazonia,2100,1900
-#FDDC5C,Patria De Plata,47,Peruvia,Peru,1870,1950
-#FDDC5C,Patria De Plata,48,Columbia,Colombia,1910,1710
+,,47,Peruvia,Peru,1870,1950
+,,48,Columbia,Colombia,1910,1710
 ,,49,Caatinga,Caatinga,2500,2000
 ,,50,Guiana,Guiana,2300,1700
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
-#FDDC5C,Patria De Plata,52,Atacama,Atacama,2020,2250
+#FDDC5C,Patria\ De Plata,52,Atacama,Atacama,2020,2250
 ,,53,Pantanal,Pantanal,2200,2100
 #033d1d,Brisante,54,Brasilia Australis,Southern Brazil,2430,2230
 ,,55,Mare Caribaeum,Caribbean Sea,1890,1300
@@ -117,10 +117,10 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,4160,280
 ,,115,Nova Zembla,Novaya Zemlya,4335,120
-#C70039,Eurasia 3,116,Novogardia,Novgorod,4000,350
+,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszawskija,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
-#C70039,Eurasia 3,119,Ucraina,Ukraine,3950,700
+,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
 #C70039,Eurasia 3,122,Moscovia,Muscovy,4100,500
@@ -227,7 +227,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
 ,,225,Mongolia Ulterior,Outer Mongolia,5600,600
-#C70039,Eurasia 3,226,Voronegia,Voronezh Oblast,4220,650
+,,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
