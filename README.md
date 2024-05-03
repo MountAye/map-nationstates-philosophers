@@ -6,10 +6,10 @@ The base map is remixed from [Gedemon/HK-GiantEarthMap](https://github.com/Gedem
 
 The lastest version of the map looks like:
 
-![latest map](latest.png)
+![latest.png](https://github.com/MountAye/map-nationstates-philosophers/blob/main/latest.png)
 
 To see the zones and borders, click to see the large maps:
-[![base map](images/registered.gif)](https://github.com/MountAye/map-nationstates-philosophers/blob/main/images/registered.gif)
+![base map](https://github.com/MountAye/map-nationstates-philosophers/blob/main/images/registered.gif?raw=true)
 
 ```BBCode
 [nation]MountAye[/nation] proudly presents the first [strike](and so far the only)[/strike] world map of the Philosophers region. This map is modified from a fan-made map for a strategic game [url=https://github.com/Gedemon/HK-GiantEarthMap]on GitHub[/url]. We appreciate their original work.
