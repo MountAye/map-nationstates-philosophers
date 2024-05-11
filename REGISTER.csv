@@ -116,7 +116,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,112,Kola,Kola Peninsula,4000,100
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,4160,280
-,,115,Nova Zembla,Novaya Zemlya,4335,120
+#b300b3,Neo Atlas\ Paradise,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
 #e90019,Warszawskija,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
@@ -149,7 +149,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,4600,1120
 ,,147,Ganges,Ganges,4960,1245
-,,148,Nenetsia,Nenets Autonomous Okrug,4450,250
+#b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
 ,,151,Altai,Altai Republic,5300,590
