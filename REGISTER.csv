@@ -240,7 +240,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
 ,,238,Thracia,Thrace,3800,900
-,,239,Transbaicalia,Transbaikal,5630,455
+#c60b1e,Moldtina,239,Transbaicalia,Transbaikal,5630,455
 #3C70C6,MountAye,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
