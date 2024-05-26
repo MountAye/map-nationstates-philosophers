@@ -69,7 +69,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #000080,Pacific\ Northwest\ Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 #7851a9,A Whole,68,Havaii,Hawaii,590,1250
-,,69,Insulae Marianae,Mariana Islands,6460,1550
+#7f7f7f,Clan\ Tokugawa,69,Insulae Marianae,Mariana Islands,6460,1550
 ,,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,970,2040
 ,,72,Insula Paschalis,Easter Island,1200,2400
