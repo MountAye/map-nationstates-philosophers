@@ -44,7 +44,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,42,Samoa,Samoa,540,2040
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
-,,45,Guatemala,Guatemala,1700,1500
+#0065BF,Telgan,45,Guatemala,Guatemala,1700,1500
 ,,46,Amazonia,Amazonia,2100,1900
 ,,47,Peruvia,Peru,1870,1950
 ,,48,Columbia,Colombia,1910,1710
@@ -69,7 +69,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #000080,Pacific\ Northwest\ Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
 #7851a9,A Whole,68,Havaii,Hawaii,590,1250
-#7f7f7f,Clan\ Tokugawa,69,Insulae Marianae,Mariana Islands,6460,1550
+#7f7f7f, ,69,Insulae Marianae,Mariana Islands,6460,1550
 ,,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,970,2040
 ,,72,Insula Paschalis,Easter Island,1200,2400
@@ -81,7 +81,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #00008B,Volurkunst,77,Insulae Galapagenses,Galapagos Islands,1570,1740
 ,,78,Gyrus Pacifici Australis,South Pacific Gyre,,
 ,,79,Flumen Humboldtianum,Humboldt Current,,
-#222222,The Imam\ Khannate,80,Insulae Bonin,Bonin Islands,6440,1270
+#222222, ,80,Insulae Bonin,Bonin Islands,6440,1270
 ,,81,Insulae Atlanticae Australis,Southern Atlantic Islands,2360,2860
 ,,82,Mare Argentinum,Argentine Sea,,
 ,,83,Fossa Mariana,Marianas Trench,,
@@ -226,12 +226,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
-,,225,Mongolia Ulterior,Outer Mongolia,5600,600
+#990000,Laughing\ Hyena,225,Mongolia Ulterior,Outer Mongolia,5600,600
 ,,226,Voronegia,Voronezh Oblast,4220,650
 #646480,Shanlix,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
-,,230,Parthia,Parthia,4575,960
+#222222,The Imam\ Khannate,230,Parthia,Parthia,4575,960
 ,,231,Bengala,Bengal,5255,1255
 ,,232,California,California,1100,850
 ,,233,Sudania,Sudan,3800,1550
