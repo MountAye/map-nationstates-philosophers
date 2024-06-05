@@ -153,7 +153,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
-,,151,Altai,Altai Republic,5300,590
+#b9001e,Solarent,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
 ,,154,Lena,Lena River,5700,220
@@ -193,7 +193,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,184,Oceanus Indicus Australis,Southern Indian Ocean,,
 ,,185,Oceanus Atlanticus Septentrionalis,North Atlantic Ocean,,
 ,,186,Mare Norvegicum,Norwegian Sea,,
-,,187,Tarim,Tarim Basin,5090,850
+#b9001e,Solarent,187,Tarim,Tarim Basin,5090,850
 #c1272d,Sunrise\ Trail,188,Marocum,Morocco,2950,1300
 ,,189,Casanum,Caspian Sea,4300,500
 ,,190,Numidia,Numidia,3260,1220
@@ -214,7 +214,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,205,Chorasmia,Khwarezm,4500,800
 ,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,4750,1200
-,,208,Desertum Gobium,Gobi Desert,5330,750
+#b9001e,Solarent,208,Desertum Gobium,Gobi Desert,5330,750
 ,,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,3450,2460
 ,,211,Guinea,Guinea,2935,1740
@@ -227,7 +227,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
-,,221,Sichuan,Sichuan,5500,1150
+#b9001e,Solarent,221,Sichuan,Sichuan,5500,1150
 ,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
@@ -250,7 +250,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 #646480,Shanlix,243,Persia,Persia,4300,1300
-,,244,Amdo,Amdo,5320,930
+#b9001e,Solarent,244,Amdo,Amdo,5320,930
 ,,245,Transoxiana,Transoxiana,4770,860
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
 #f2d300,Jibjibistan,247,Venetiola,Venezuela,2050,1600
