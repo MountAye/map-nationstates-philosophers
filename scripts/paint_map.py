@@ -22,6 +22,7 @@ borders = np.squeeze(io.imread("images/border_lines.gif",as_gray=True))
 latest = np.zeros((*base.shape,3),dtype=int)
 latest[mask_lands] = hex2color(config["color_land"])
 latest[mask_ocean] = hex2color(config["color_seas"])
+combined = np.copy(np.squeeze(io.imread("images/registered.gif")))
 
 for color in registered['COLOR'].unique():
     mask_color = np.zeros(base.shape,dtype=bool)
@@ -33,6 +34,7 @@ for color in registered['COLOR'].unique():
         territory_land = morphology.binary_dilation(territory_land,footprint=np.ones((3,3),dtype=bool))
         mask_color[territory_land] = True
     latest[mask_color] = hex2color(color)
+    combined[mask_color] = hex2color(color)
     mask_erosion = morphology.binary_dilation(mask_color,footprint=np.ones((5,5),dtype=bool))
     color_border = np.logical_xor(mask_color,mask_erosion)
     latest[np.logical_and(color_border,mask_lands)] = np.array([  0,  0,  0])
@@ -91,8 +93,11 @@ for n,name in enumerate(registered["STATE"].unique()):
             text_core = (text_core>255/2)
             text_edge = morphology.binary_dilation(text_core,footprint=np.ones((7,7)))
             named[text_edge] = np.array([  0,  0,  0])
+            combined[text_edge] = np.array([  0,  0,  0])
             named[text_core] = np.array([255,255,255])
+            combined[text_core] = np.array([255,255,255])
     print(f"... printing names #{n+1}: {name}")
 
 io.imsave("latest.png",util.img_as_ubyte(named))
+io.imsave("combined.png",util.img_as_ubyte(combined))
 

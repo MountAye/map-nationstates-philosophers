@@ -49,7 +49,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,47,Peruvia,Peru,1870,1950
 ,,48,Columbia,Colombia,1910,1710
 ,,49,Caatinga,Caatinga,2500,2000
-,,50,Guiana,Guiana,2300,1700
+#b3263b,Free Jibistan,50,Guiana,Guiana,2300,1700
+#f2d300,Jibjibistan,50.5,Guiana,customized by Jibjibistan,2200,1615
 #B3C890,Krankheit,51,Patagonia,Patagonia,2100,2650
 ,,52,Atacama,Atacama,2020,2250
 ,,53,Pantanal,Pantanal,2200,2100
@@ -252,7 +253,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,244,Amdo,Amdo,5320,930
 ,,245,Transoxiana,Transoxiana,4770,860
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
-,,247,Venetiola,Venezuela,2050,1600
+#f2d300,Jibjibistan,247,Venetiola,Venezuela,2050,1600
 ,,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
 ,,250,Lydia,Lydia,3900,1050
