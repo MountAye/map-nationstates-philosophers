@@ -12,7 +12,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,10,Baffin,Baffin Island,2050,160
 #12618a,Pacifinco,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
-#499b4a,Free Free Free,13,Canada,Canada,2000,600
+,,13,Canada,Canada,2000,600
 #12618a,Pacifinco,14,Ungava,Ungava,1990,430
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
@@ -40,7 +40,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,38,Cambosia,Cambodia,5600,1600
 ,,39,Tasmania,Tasmania,6600,2800
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
-#d69400,Lincows,41,Mexicum,Mexico,1400,1300
+,,41,Mexicum,Mexico,1400,1300
 ,,42,Samoa,Samoa,540,2040
 ,,43,Oceanus Indicus,Indian Ocean,,
 ,,44,Mare Tasmanianum,Tasman Sea,,
@@ -58,11 +58,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,55,Mare Caribaeum,Caribbean Sea,1890,1300
 ,,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,2160,1350
-#d69400,Lincows,58,Texia,Texas,1450,1000
+,,58,Texia,Texas,1450,1000
 ,,59,Mississippia,Mississippi,1600,940
 #fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
 ,,61,Carolinae,Carolina,1850,900
-#d69400,Lincows,62,Chihuahua,Chihuahua,1270,1110
+,,62,Chihuahua,Chihuahua,1270,1110
 ,,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,1460,825
@@ -210,7 +210,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,201,Laboratoria,Laboratory,2200,450
 #B3C890,Krankheit,202,Flumen Argenteum,Silver River,2180,2380
 #B3C890,Krankheit,203,Terra Ignium,Tierra del Fuego,2050,2970
-#d69400,Lincows,204,Nivata,Nivat,1270,860
+,,204,Nivata,Nivat,1270,860
 ,,205,Chorasmia,Khwarezm,4500,800
 ,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,4750,1200
