@@ -179,10 +179,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,5850,2080
 #333333,Zahabistan,175.5,Iava,customized by Zahabny,5730,2060
-,,176,Celebis,Celebes (Sulawesi),6080,1900
-,,177,Papua,Papua,6400,1900
-,,178,Borneum,Borneo,5900,1850
-#495d68,Zahabny,178.5,Borneum,customized by Zahabny,5860,1950
+#495d68,Zahabny,176,Celebis,Celebes (Sulawesi),6080,1900
+#495d68,Zahabny,177,Papua,Papua,6400,1900
+#495d68,Zahabny,178,Borneum,Borneo,5900,1850
 ,,179,Casmir,Kashmir,4950,1000
 #00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
