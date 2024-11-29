@@ -60,7 +60,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,57,Antillae,Antilles,2160,1350
 ,,58,Texia,Texas,1450,1000
 ,,59,Mississippia,Mississippi,1600,940
-#fafafa,Burrhus\ Frederic\ Skinner,60,Massachusetta,Massachusetts,2020,740
+,,60,Massachusetta,Massachusetts,2020,740
 ,,61,Carolinae,Carolina,1850,900
 ,,62,Chihuahua,Chihuahua,1270,1110
 ,,62.5,Baja California,customized by Yeeeeeeeururfdjdjskksk,1145,1070
@@ -151,7 +151,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,147,Ganges,Ganges,4960,1245
 #b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
-,,150,Tibetum,Tibet,5200,1100
+#3C70C6,MountAye,150,Tibetum,Tibet,5200,1100
 #b9001e,Solarent,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
