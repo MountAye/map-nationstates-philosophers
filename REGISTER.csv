@@ -10,10 +10,10 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,8,Kitlineq,Kitlineq,1400,100
 ,,9,Nunavut,Nunavut,1500,200
 ,,10,Baffin,Baffin Island,2050,160
-#12618a,Pacifinco,11,Groenlandia,Greenland,2500,125
+,,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
 ,,13,Canada,Canada,2000,600
-#12618a,Pacifinco,14,Ungava,Ungava,1990,430
+,,14,Ungava,Ungava,1990,430
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
 #00008B,Volurkunst,17,Islandia,Iceland,2900,200
@@ -23,7 +23,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #0065BF,Telgan,21,Britannia,Britain,3150,570
 ,,22,Occitania,Occitania,3180,900
 ,,23,Batavia,Batavia,3350,650
-#e90019,Warszawskija,24,Neustria,Neustria,3220,750
+,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
 #222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
@@ -100,17 +100,17 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #005eb8,Abide,96,Castella,Castile,2930,1000
 #005eb8,Abide,97,Aragonia,Aragon,3080,1020
 ,,98,Sardinia,Sardinia,3350,1040
-#e90019,Warszawskija,99,Italia Annonaria,Annonarian Italy,3400,880
+,,99,Italia Annonaria,Annonarian Italy,3400,880
 ,,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
 ,,101,Graecia,Greece,3720,1060
 ,,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,3850,800
-#e90019, ,104,Danubia,Danubia,3650,780
-#FFA500,Maklaburg,105,Germania,Germany,3500,660
+,,104,Danubia,Danubia,3650,780
+,,105,Germania,Germany,3500,660
 #7f0b0e,Archadon,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
-#e90019,Warszawskija,109,Suecia,Sweden,3600,400
+,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,4545,450
 ,,111,Finnia,Finland,3800,300
 ,,112,Kola,Kola Peninsula,4000,100
@@ -118,12 +118,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,114,Biarmia,Bjarmaland,4160,280
 #b300b3,Neo Atlas\ Paradise,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
-#e90019,Warszawskija,117,Polonia,Poland,3680,640
+,,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
-#C70039,Eurasia 3,122,Moscovia,Muscovy,4100,500
+,,122,Moscovia,Muscovy,4100,500
 ,,123,Assyria,Assyria,4200,1120
 ,,124,Ciscaucasia,Ciscaucasia,4250,800
 ,,125,Mauretania,Mauretania,2950,1500
@@ -134,7 +134,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,130,Cammarunia,Cameroon,3380,1900
 ,,131,Kenia,Kenya,3850,2020
 ,,132,Abyssinia,Ethiopia,3860,1780
-#646480,Shanlix,133,Socotra,Socotra,4350,1750
+,,133,Socotra,Socotra,4350,1750
 ,,134,Insulae Mascarene,Mascarene Islands,4520,2340
 #0065BF,Telgan,135,Madagascaria,Madagascar,4030,2350
 ,,136,Cape,Cape of Good Hope,3600,2600
@@ -143,7 +143,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,139,Oceanus Indicus Occidentalis,Western Indian Ocean,,
 ,,140,Mare Arabicum,Arabian,,
 ,,141,Sri Lanca,Sri Lanca,5050,1800
-#646480,Shanlix,142,Mesopotamia,Mesopotamia,4150,1275
+,,142,Mesopotamia,Mesopotamia,4150,1275
 ,,143,Hidiazum,Hyderabad,4100,1520
 #222222,The Imam\ Khannate,144,Media,Media,4400,1150
 ,,145,Maharastra,Maharashtra,4900,1500
@@ -231,7 +231,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,224,Ienisea,Yenisei River,5040,230
 #990000,Laughing\ Hyena,225,Mongolia Ulterior,Outer Mongolia,5600,600
 ,,226,Voronegia,Voronezh Oblast,4220,650
-#646480,Shanlix,227,Arabia,Arabia,4300,1500
+,,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
 #222222,The Imam\ Khannate,230,Parthia,Parthia,4575,960
@@ -247,7 +247,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3C70C6,MountAye,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
-#646480,Shanlix,243,Persia,Persia,4300,1300
+,,243,Persia,Persia,4300,1300
 #b9001e,Solarent,244,Amdo,Amdo,5320,930
 ,,245,Transoxiana,Transoxiana,4770,860
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
