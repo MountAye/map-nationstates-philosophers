@@ -101,8 +101,8 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,98,Sardinia,Sardinia,3350,1040
 ,,99,Italia Annonaria,Annonarian Italy,3400,880
 #0065BF,Telgan,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-,,101,Graecia,Greece,3720,1060
-,,102,Illyria,Illyria,3630,920
+#702963,Aktithropia,101,Graecia,Greece,3720,1060
+#702963,Aktithropia,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
 ,,105,Germania,Germany,3500,660
@@ -118,7 +118,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #b300b3,Neo Atlas\ Paradise,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
 ,,117,Polonia,Poland,3680,640
-,,118,Cappadocia,Cappadocia,4100,1020
+#702963,Aktithropia,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
@@ -128,7 +128,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,125,Mauretania,Mauretania,2950,1500
 ,,126,Sahara,Sahara,3200,1400
 ,,127,Libya,Libya,3500,1400
-,,128,Aegyptus,Egypt,3800,1400
+#702963,Aktithropia,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,3040,1600
 ,,130,Cammarunia,Cameroon,3380,1900
 ,,131,Kenia,Kenya,3850,2020
@@ -240,7 +240,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,235,Gedrosia,Gedrosia,4540,1330
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
-,,238,Thracia,Thrace,3800,900
+#702963,Aktithropia,238,Thracia,Thrace,3800,900
 #c60b1e,Moldtina,239,Transbaicalia,Transbaikal,5630,455
 #3C70C6,MountAye,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
@@ -252,5 +252,5 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #f2d300,Jibjibistan,247,Venetiola,Venezuela,2050,1600
 #FFA07A,Free\ Ecuador,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
-,,250,Lydia,Lydia,3900,1050
+#702963,Aktithropia,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,2595,5
