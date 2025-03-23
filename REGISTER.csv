@@ -26,7 +26,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-#222222,The Imam\ Khannate,27,Esonia,Hokkaido,6330,600
+,,27,Esonia,Hokkaido,6330,600
 ,,28,Camtschatca,Kamchatka,6400,450
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
@@ -37,7 +37,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,35,Cambria Australis,South Wales,6630,2550
 #990000,Laughing\ Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
 ,,37,Te Waipounamu,South Island of New Zealand,120,2900
-,,38,Cambosia,Cambodia,5600,1600
+#095D6A,Esklabau,38,Cambosia,Cambodia,5600,1600
 ,,39,Tasmania,Tasmania,6600,2800
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
 ,,41,Mexicum,Mexico,1400,1300
@@ -65,10 +65,10 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,62,Chihuahua,Chihuahua,1270,1110
 ,,63,Lacus Magni,Great Lakes,1720,760
 ,,64,Magnae Planities,Great Plains,1460,825
-#7851a9,A Whole,65,Dacota,Dakota,1450,670
+,,65,Dacota,Dakota,1450,670
 #000080,Pacific\ Northwest\ Territories,66,Oregonia,Oregon,1200,650
 ,,67,Flumen Aequatoriale Septentrionale,Northern Equatorial Current,,
-#7851a9,A Whole,68,Havaii,Hawaii,590,1250
+,,68,Havaii,Hawaii,590,1250
 #7f7f7f, ,69,Insulae Marianae,Mariana Islands,6460,1550
 ,,70,Insulae Marsaliensis,Marshall Islands,350,1700
 ,,71,Insulae Marchionis,Marquesas Islands,970,2040
@@ -144,7 +144,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,141,Sri Lanca,Sri Lanca,5050,1800
 ,,142,Mesopotamia,Mesopotamia,4150,1275
 ,,143,Hidiazum,Hyderabad,4100,1520
-#222222,The Imam\ Khannate,144,Media,Media,4400,1150
+,,144,Media,Media,4400,1150
 ,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,4600,1120
 ,,147,Ganges,Ganges,4960,1245
@@ -158,7 +158,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 #c60b1e,Moldtina,157,Amur,Amur River,5960,480
-#222222,The Imam\ Khannate,158,Magadanum,Magadan Oblast,6200,350
+,,158,Magadanum,Magadan Oblast,6200,350
 #c60b1e,Moldtina,159,Corea,Korea,6030,870
 ,,160,Insulae Lineae,Line Islands,685,1700
 #c60b1e,Moldtina,161,Territorium Maritimum,Maritime Territory,6150,560
@@ -167,9 +167,9 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3C70C6,MountAye,164,Flumen Margaritarum,Pearl River,5725,1280
 #7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
 ,,166,Birmania,Myanmar (Burma),5360,1500
-,,167,Vietnamia,Vietnam,5600,1500
-,,168,Thailandia,Thailand,5500,1500
-,,169,Malaesia,Malaysia,5560,1780
+#FEE445,Azklabau,167,Vietnamia,Vietnam,5600,1500
+#095D6A,Esklabau,168,Thailandia,Thailand,5500,1500
+#095D6A,Esklabau,169,Malaesia,Malaysia,5560,1780
 ,,170,Sumatra,Sumatra,5500,1900
 #003366,Zahabia,170.5,Sumatra,customized by Zahabny,5430,1845
 ,,171,Andamanenses,Andaman Islands,5300,1650
@@ -177,7 +177,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,173,Hainania,Hainan,5700,1435
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,5850,2080
-#333333,Zahabistan,175.5,Iava,customized by Zahabny,5730,2060
+,,175.5,Iava,customized by Zahabny,5730,2060
 #495d68,Zahabny,176,Celebis,Celebes (Sulawesi),6080,1900
 #495d68,Zahabny,177,Papua,Papua,6400,1900
 #495d68,Zahabny,178,Borneum,Borneo,5900,1850
@@ -200,7 +200,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,195,Iana,Yana River,5950,240
 ,,196,Colyma,Kolyma River,6200,200
 ,,197,Tschucoticus,Chukotka,6500,200
-#7851a9,A Whole,198,Kenai,Kenai Peninsula,800,280
+,,198,Kenai,Kenai Peninsula,800,280
 ,,199,Athabasca,Athabasca River,1250,350
 ,,200,Dene,Dene,1060,220
 ,,201,Laboratoria,Laboratory,2200,450
@@ -232,7 +232,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,227,Arabia,Arabia,4300,1500
 ,,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
-#222222,The Imam\ Khannate,230,Parthia,Parthia,4575,960
+,,230,Parthia,Parthia,4575,960
 ,,231,Bengala,Bengal,5255,1255
 ,,232,California,California,1100,850
 ,,233,Sudania,Sudan,3800,1550
