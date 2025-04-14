@@ -26,19 +26,19 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-,,27,Esonia,Hokkaido,6330,600
+#3C70C6,MountAye,27,Esonia,Hokkaido,6330,600
 ,,28,Camtschatca,Kamchatka,6400,450
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
 ,,31,Australia Occidentalis,Western Australia,6000,2400
 ,,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,6300,2300
-,,34,Australia Australis,Southern Australia,6350,2500
-,,35,Cambria Australis,South Wales,6630,2550
+#036c92,Emphand,34,Australia Australis,Southern Australia,6350,2500
+#036c92,Emphand,35,Cambria Australis,South Wales,6630,2550
 #990000,Laughing\ Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
 ,,37,Te Waipounamu,South Island of New Zealand,120,2900
 #095D6A,Esklabau,38,Cambosia,Cambodia,5600,1600
-,,39,Tasmania,Tasmania,6600,2800
+#036c92,Emphand,39,Tasmania,Tasmania,6600,2800
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
 ,,41,Mexicum,Mexico,1400,1300
 ,,42,Samoa,Samoa,540,2040
@@ -150,7 +150,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,147,Ganges,Ganges,4960,1245
 #b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
-#3C70C6,MountAye,150,Tibetum,Tibet,5200,1100
+,,150,Tibetum,Tibet,5200,1100
 #b9001e,Solarent,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
