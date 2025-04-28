@@ -26,7 +26,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-#3C70C6,MountAye,27,Esonia,Hokkaido,6330,600
+#7f7f7f,Clan\ Tokugawa,27,Esonia,Hokkaido,6330,600
 ,,28,Camtschatca,Kamchatka,6400,450
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
@@ -80,7 +80,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #00008B,Volurkunst,77,Insulae Galapagenses,Galapagos Islands,1570,1740
 ,,78,Gyrus Pacifici Australis,South Pacific Gyre,,
 ,,79,Flumen Humboldtianum,Humboldt Current,,
-,,80,Insulae Bonin,Bonin Islands,6440,1270
+#7f7f7f, ,80,Insulae Bonin,Bonin Islands,6440,1270
 ,,81,Insulae Atlanticae Australis,Southern Atlantic Islands,2360,2860
 ,,82,Mare Argentinum,Argentine Sea,,
 ,,83,Fossa Mariana,Marianas Trench,,
@@ -165,7 +165,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #3C70C6,MountAye,162,Planum Sinense,Chinese Plain,5850,950
 #3C70C6,MountAye,163,Flumen Flavum,Yellow River,5640,950
 #3C70C6,MountAye,164,Flumen Margaritarum,Pearl River,5725,1280
-#7f7f7f,Clan\ Tokugawa,165,Formosa,Taiwan,6000,1300
+#3C70C6, ,165,Formosa,Taiwan,6000,1300
 ,,166,Birmania,Myanmar (Burma),5360,1500
 #FEE445,Azklabau,167,Vietnamia,Vietnam,5600,1500
 #095D6A,Esklabau,168,Thailandia,Thailand,5500,1500
