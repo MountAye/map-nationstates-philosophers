@@ -33,12 +33,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,31,Australia Occidentalis,Western Australia,6000,2400
 ,,32,Terra Reginae,Queen's Land,6600,2300
 ,,33,Australia Septentrionalis,Northern Australia,6300,2300
-#036c92,Emphand,34,Australia Australis,Southern Australia,6350,2500
-#036c92,Emphand,35,Cambria Australis,South Wales,6630,2550
+,,34,Australia Australis,Southern Australia,6350,2500
+,,35,Cambria Australis,South Wales,6630,2550
 #990000,Laughing\ Hyena,36,Te Ika-a-Maui,North Island of New Zealand,300,2700
 ,,37,Te Waipounamu,South Island of New Zealand,120,2900
 #095D6A,Esklabau,38,Cambosia,Cambodia,5600,1600
-#036c92,Emphand,39,Tasmania,Tasmania,6600,2800
+,,39,Tasmania,Tasmania,6600,2800
 ,,40,Magnus Sinus Australianus,Gulf of Carpentaria,,
 ,,41,Mexicum,Mexico,1400,1300
 ,,42,Samoa,Samoa,540,2040
@@ -171,16 +171,16 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #095D6A,Esklabau,168,Thailandia,Thailand,5500,1500
 #095D6A,Esklabau,169,Malaesia,Malaysia,5560,1780
 ,,170,Sumatra,Sumatra,5500,1900
-#003366,Zahabia,170.5,Sumatra,customized by Zahabny,5430,1845
+,,170.5,Sumatra,customized by Zahabny,5430,1845
 ,,171,Andamanenses,Andaman Islands,5300,1650
 ,,172,Sinus Bengalensis,Bay of Bengal,,
 ,,173,Hainania,Hainan,5700,1435
 ,,174,Mare Philippinense,Philippine Sea,,
 ,,175,Iava,Java,5850,2080
 ,,175.5,Iava,customized by Zahabny,5730,2060
-#495d68,Zahabny,176,Celebis,Celebes (Sulawesi),6080,1900
-#495d68,Zahabny,177,Papua,Papua,6400,1900
-#495d68,Zahabny,178,Borneum,Borneo,5900,1850
+,,176,Celebis,Celebes (Sulawesi),6080,1900
+,,177,Papua,Papua,6400,1900
+,,178,Borneum,Borneo,5900,1850
 ,,179,Casmir,Kashmir,4950,1000
 #00008B,Volurkunst,180,Melanesia,Melanesia,190,2150
 ,,181,Flumen Australianum Occidentale,Western Australian River,,
