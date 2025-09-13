@@ -101,12 +101,12 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,98,Sardinia,Sardinia,3350,1040
 ,,99,Italia Annonaria,Annonarian Italy,3400,880
 #0065BF,Telgan,100,Italia Suburbicaria,Suburbicarian Italy,3500,1050
-#702963,Aktithropia,101,Graecia,Greece,3720,1060
-#702963,Aktithropia,102,Illyria,Illyria,3630,920
+,,101,Graecia,Greece,3720,1060
+,,102,Illyria,Illyria,3630,920
 ,,103,Dacia,Dacia,3850,800
 ,,104,Danubia,Danubia,3650,780
 ,,105,Germania,Germany,3500,660
-#7f0b0e,Archadon,106,Syria,Syria,4000,1200
+,,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
 ,,108,Crasnoiarium,Krasnoyarsk,5220,380
 ,,109,Suecia,Sweden,3600,400
@@ -118,7 +118,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #b300b3,Neo Atlas\ Paradise,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
 ,,117,Polonia,Poland,3680,640
-#702963,Aktithropia,118,Cappadocia,Cappadocia,4100,1020
+,,118,Cappadocia,Cappadocia,4100,1020
 ,,119,Ucraina,Ukraine,3950,700
 #388E3C,Jurioo-\ Zalgiris,120,Baltica,Baltics,3820,500
 #006E48,Central\ Kadigan,121,Transcaucasia,Transcaucasia,4300,950
@@ -128,7 +128,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,125,Mauretania,Mauretania,2950,1500
 ,,126,Sahara,Sahara,3200,1400
 ,,127,Libya,Libya,3500,1400
-#702963,Aktithropia,128,Aegyptus,Egypt,3800,1400
+,,128,Aegyptus,Egypt,3800,1400
 ,,129,Malia,Mali,3040,1600
 ,,130,Cammarunia,Cameroon,3380,1900
 ,,131,Kenia,Kenya,3850,2020
@@ -151,7 +151,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
-#b9001e,Solarent,151,Altai,Altai Republic,5300,590
+,,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
 ,,154,Lena,Lena River,5700,220
@@ -187,7 +187,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,184,Oceanus Indicus Australis,Southern Indian Ocean,,
 ,,185,Oceanus Atlanticus Septentrionalis,North Atlantic Ocean,,
 ,,186,Mare Norvegicum,Norwegian Sea,,
-#b9001e,Solarent,187,Tarim,Tarim Basin,5090,850
+,,187,Tarim,Tarim Basin,5090,850
 #c1272d,Sunrise\ Trail,188,Marocum,Morocco,2950,1300
 ,,189,Casanum,Caspian Sea,4300,500
 ,,190,Numidia,Numidia,3260,1220
@@ -208,7 +208,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,205,Chorasmia,Khwarezm,4500,800
 ,,206,Kazachia,Kazakhstan,4800,680
 ,,207,Indus,Indus River,4750,1200
-#b9001e,Solarent,208,Desertum Gobium,Gobi Desert,5330,750
+,,208,Desertum Gobium,Gobi Desert,5330,750
 ,,209,Somalia,Somalia,4080,1790
 ,,210,Naimbia,Namibia,3450,2460
 ,,211,Guinea,Guinea,2935,1740
@@ -221,7 +221,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
-#b9001e,Solarent,221,Sichuan,Sichuan,5500,1150
+,,221,Sichuan,Sichuan,5500,1150
 ,,222,Zimbabua,Zimbabwe,3650,2380
 ,,223,Tobolium,Tobol River,4750,400
 ,,224,Ienisea,Yenisei River,5040,230
@@ -238,17 +238,17 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,235,Gedrosia,Gedrosia,4540,1330
 ,,236,Dravidia,Dravidian,4950,1700
 ,,237,Odisa,Odisha,5100,1400
-#702963,Aktithropia,238,Thracia,Thrace,3800,900
+,,238,Thracia,Thrace,3800,900
 #c60b1e,Moldtina,239,Transbaicalia,Transbaikal,5630,455
 #3C70C6,MountAye,240,Mongolia Citerior,Inner Mongolia,5730,700
 #3C70C6,MountAye,241,Kiangnanum,Jiangnan,5800,1150
 #7f7f7f,Clan\ Tokugawa,242,Alpes Iaponicae,Japanese Alps,6300,1000
 ,,243,Persia,Persia,4300,1300
-#b9001e,Solarent,244,Amdo,Amdo,5320,930
+,,244,Amdo,Amdo,5320,930
 ,,245,Transoxiana,Transoxiana,4770,860
 #B3C890,Krankheit,246,Chilia,Chilia Branch,1975,2625
 #f2d300,Jibjibistan,247,Venetiola,Venezuela,2050,1600
 #FFA07A,Free\ Ecuador,248,Paraensis,Paraense,2300,1900
 ,,249,Flumen Brasiliense,Brazilian River,,
-#702963,Aktithropia,250,Lydia,Lydia,3900,1050
+,,250,Lydia,Lydia,3900,1050
 ,,251,Ultima Thule,Ultima Thule,2595,5
