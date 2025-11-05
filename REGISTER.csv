@@ -12,7 +12,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,10,Baffin,Baffin Island,2050,160
 ,,11,Groenlandia,Greenland,2500,125
 ,,12,Keewatin,Keewatin,1700,500
-,,13,Canada,Canada,2000,600
+#9c1f2d,Skin Nation the Fourth,13,Canada,Canada,2000,600
 ,,14,Ungava,Ungava,1990,430
 ,,15,Terra Nova,Newfoundland,2350,560
 ,,16,Mare Laboratorium,Laboratory Sea,,
@@ -115,7 +115,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,112,Kola,Kola Peninsula,4000,100
 ,,113,Mare Barentsianum,Barents Sea,,
 ,,114,Biarmia,Bjarmaland,4160,280
-#b300b3,Neo Atlas\ Paradise,115,Nova Zembla,Novaya Zemlya,4335,120
+,,115,Nova Zembla,Novaya Zemlya,4335,120
 ,,116,Novogardia,Novgorod,4000,350
 ,,117,Polonia,Poland,3680,640
 ,,118,Cappadocia,Cappadocia,4100,1020
@@ -148,7 +148,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,145,Maharastra,Maharashtra,4900,1500
 ,,146,Afgania,Afghanistan,4600,1120
 ,,147,Ganges,Ganges,4960,1245
-#b300b3,Neo Atlas\ Paradise,148,Nenetsia,Nenets Autonomous Okrug,4450,250
+,,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
 ,,151,Altai,Altai Republic,5300,590
@@ -218,7 +218,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,215,Zambia,Zambia,3650,2210
 ,,216,Capitis Viridis,Cape Verde,2640,1580
 ,,217,Tuvalu,Tuvalu,415,1935
-#FCD20E,Isla\ Pilipinas,218,Philippinae,Philippines,6000,1500
+,,218,Philippinae,Philippines,6000,1500
 ,,219,Yucatania,Yucatan,1570,1390
 ,,220,Beninum,Benin,3220,1760
 ,,221,Sichuan,Sichuan,5500,1150
