@@ -58,7 +58,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,55,Mare Caribaeum,Caribbean Sea,1890,1300
 ,,56,Florida,Florida,1850,1080
 ,,57,Antillae,Antilles,2160,1350
-,,58,Texia,Texas,1450,1000
+#40e0d0,Nuevo\ Albuquerque,58,Texia,Texas,1450,1000
 ,,59,Mississippia,Mississippi,1600,940
 ,,60,Massachusetta,Massachusetts,2020,740
 ,,61,Carolinae,Carolina,1850,900
