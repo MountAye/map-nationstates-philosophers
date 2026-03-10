@@ -26,7 +26,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,24,Neustria,Neustria,3220,750
 ,,25,Flumen Kuroshio,Kuroshio River,,
 ,,26,Flumen Californiense,California River,,
-#7f7f7f,Clan\ Tokugawa,27,Esonia,Hokkaido,6330,600
+#7f7f7f, ,27,Esonia,Hokkaido,6330,600
 ,,28,Camtschatca,Kamchatka,6400,450
 #7f7f7f,Clan\ Tokugawa,29,Iaponia Boreales,Northern Japan,6330,860
 #7f7f7f,Clan\ Tokugawa,30,Iaponia Australes,Southern Japan,6100,1200
@@ -108,7 +108,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,105,Germania,Germany,3500,660
 ,,106,Syria,Syria,4000,1200
 #990000,Laughing\ Hyena,107,Norvegia,Norway,3500,290
-,,108,Crasnoiarium,Krasnoyarsk,5220,380
+#8B0000,Tayichiud,108,Crasnoiarium,Krasnoyarsk,5220,380
 ,,109,Suecia,Sweden,3600,400
 ,,110,Permia,Perm,4545,450
 ,,111,Finnia,Finland,3800,300
@@ -151,11 +151,11 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,148,Nenetsia,Nenets Autonomous Okrug,4450,250
 ,,149,Orenburgum,Orenburg Oblast,4525,625
 ,,150,Tibetum,Tibet,5200,1100
-,,151,Altai,Altai Republic,5300,590
+#8B0000,Tayichiud,151,Altai,Altai Republic,5300,590
 ,,152,Lapponia,Lapland,3700,160
 ,,153,Tungusca,Tunguska,5285,235
 ,,154,Lena,Lena River,5700,220
-,,155,Cisbaicalia,Transbaikal,5450,370
+#8B0000,Tayichiud,155,Cisbaicalia,Transbaikal,5450,370
 ,,156,Mare Tschukotense,Chukotka Sea,,
 #c60b1e,Moldtina,157,Amur,Amur River,5960,480
 ,,158,Magadanum,Magadan Oblast,6200,350
@@ -193,7 +193,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 ,,190,Numidia,Numidia,3260,1220
 ,,191,Finmarchia,Finnmark,3680,80
 ,,192,Taimyr,Taymyr Peninsula,5250,80
-,,193,Tomium,Tom River,5000,440
+#8B0000,Tayichiud,193,Tomium,Tom River,5000,440
 ,,194,Iamalia,Yamalia,4820,250
 ,,195,Iana,Yana River,5950,240
 ,,196,Colyma,Kolyma River,6200,200
@@ -228,7 +228,7 @@ COLOR,STATE,INDEX,TERRITORY,ENGLISH,PIN_COL,PIN_ROW
 #990000,Laughing\ Hyena,225,Mongolia Ulterior,Outer Mongolia,5600,600
 ,,226,Voronegia,Voronezh Oblast,4220,650
 ,,227,Arabia,Arabia,4300,1500
-,,228,Omium,Omsk,4830,525
+#8B0000,Tayichiud,228,Omium,Omsk,4830,525
 #c60b1e,Moldtina,229,Manchuria,Manchuria,6000,660
 ,,230,Parthia,Parthia,4575,960
 ,,231,Bengala,Bengal,5255,1255
